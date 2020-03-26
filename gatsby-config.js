@@ -6,9 +6,6 @@ module.exports = {
     author: '@matteocarpi',
   },
   plugins: [
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-    'gatsby-transformer-remark',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
@@ -21,7 +18,9 @@ module.exports = {
         // GitHub Flavored Markdown mode (default: true)
         gfm: true,
         // Plugins configs
-        plugins: [],
+        plugins: [
+          '@forestryio/gatsby-remark-normalize-paths',
+        ],
       },
     },
     'gatsby-plugin-sass',
@@ -41,6 +40,14 @@ module.exports = {
         name: 'images',
         // eslint-disable-next-line no-undef
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        // eslint-disable-next-line no-undef
+        path: `${__dirname}/src/uploads`,
       },
     },
     {
