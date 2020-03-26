@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-undef
 module.exports = {
   siteMetadata: {
-    title: 'Tameto Gatsby Forestry',
-    description: 'A more than minimal Gatsby starter',
+    title: 'Niall Fallon',
+    description: 'Theatre Maker | Performer',
     author: '@matteocarpi',
   },
   plugins: [
