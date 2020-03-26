@@ -38,6 +38,15 @@ export const query = graphql`
         edges {
           node {
             id
+            frontmatter {
+              main_image {
+                 childImageSharp {
+                  fluid {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+            }
           }
         }
       }
