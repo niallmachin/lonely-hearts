@@ -34,13 +34,12 @@ export const query = graphql`
           description
         }
       }
-      allMarkdownRemark {
+      allMarkdownRemark(filter: {fields: {slug: {eq: "/home/"}}}) {
         edges {
           node {
-            id
             frontmatter {
               main_image {
-                 childImageSharp {
+                childImageSharp {
                   fluid {
                     ...GatsbyImageSharpFluid
                   }
