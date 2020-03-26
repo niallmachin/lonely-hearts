@@ -53,9 +53,17 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'content',
+        name: 'posts',
         // eslint-disable-next-line no-undef
-        path: `${__dirname}/content`,
+        path: `${__dirname}/content/posts`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'pages',
+        // eslint-disable-next-line no-undef
+        path: `${__dirname}/content/pages`,
       },
     },
     // {
