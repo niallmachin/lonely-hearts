@@ -23,7 +23,7 @@ const Home = ({data}) => (
       </div>
     </BackgroundImage>
 
-    <section className={styles.about}>
+    <section id="about" className={styles.about}>
       <Img className={styles.headshot} fluid={data.homeData.edges[0].node.frontmatter.headshot.childImageSharp.fluid} />
       <div>
         <Markdown>
@@ -32,7 +32,7 @@ const Home = ({data}) => (
       </div>
     </section>
 
-    <section className={styles.projects}>
+    <section id="projects" className={styles.projects}>
       <h1 className="sectionTitle">Projects</h1>
 
       <div className={styles.projectList}>
@@ -46,7 +46,7 @@ const Home = ({data}) => (
       </div>
     </section>
 
-    <section className={styles.contacts}>
+    <section id="contacts" className={styles.contacts}>
       <h1 className="sectionTitle">Contact</h1>
       <a 
         href={`mailto:${data.homeData.edges[0].node.frontmatter.email}`}
