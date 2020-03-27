@@ -19,7 +19,7 @@ const Home = ({data}) => (
     >
       <div className={styles.introSlide}>
         <h1 className={styles.title}>{data.site.siteMetadata.title}</h1>
-        <h2>{data.site.siteMetadata.description}</h2>
+        <h2 className={styles.subTitle}>{data.site.siteMetadata.description}</h2>
       </div>
     </BackgroundImage>
 

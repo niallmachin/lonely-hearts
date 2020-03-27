@@ -29,7 +29,7 @@ module.exports = {
       options: {
         fonts: [
           'Josefin Sans',
-          'Josefin Slab',
+          'Josefin Slab\:400,600,700',
         ],
         display: 'swap',
       },
