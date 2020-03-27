@@ -1,4 +1,5 @@
 ---
+template: project
 title: Like a Horse
 gallery:
 - "/uploads/Picture2.png"

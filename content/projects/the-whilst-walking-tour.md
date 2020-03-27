@@ -1,4 +1,5 @@
 ---
+template: project
 title: The Whilst Walking Tour
 gallery:
     - "/uploads/Picture3.png"

@@ -1,4 +1,5 @@
 ---
+template: project
 title: The Elephant's Workshop
   gallery:
   - "/uploads/Picture1.png"
