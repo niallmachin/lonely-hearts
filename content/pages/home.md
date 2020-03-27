@@ -1,6 +1,8 @@
 ---
 main_image: "/uploads/photo-1576997355598-a5a9def46291.jpg"
-about: Niall Fallon is a performer, musician, and director of physical performance.
+headshot: "/uploads/photo-1576997355598-a5a9def46291.jpg"
+about: |-
+  Niall Fallon is a performer, musician, and director of physical performance.
   His work focuses on merging physical theatre with multi-disciplinary practices.
   Combining clown, the absurd, and abstract storytelling, with film and multimedia.
   He has curated and performed in festivals and collaborations around the world. He
