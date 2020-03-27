@@ -23,16 +23,16 @@ const Home = ({data}) => (
       </div>
     </BackgroundImage>
 
-    <article className={styles.about}>
+    <section className={styles.about}>
       <Img className={styles.headshot} fluid={data.homeData.edges[0].node.frontmatter.headshot.childImageSharp.fluid} />
       <div>
         <Markdown>
           {data.homeData.edges[0].node.frontmatter.about}
         </Markdown>
       </div>
-    </article>
+    </section>
 
-    <article className={styles.projects}>
+    <section className={styles.projects}>
       <h1 className="sectionTitle">Projects</h1>
 
       <div className={styles.projectList}>
@@ -44,24 +44,24 @@ const Home = ({data}) => (
           );
         })}
       </div>
-    </article>
+    </section>
 
-    <article className={styles.contacts}>
+    <section className={styles.contacts}>
       <h1 className="sectionTitle">Contact</h1>
       <a 
         href={`mailto:${data.homeData.edges[0].node.frontmatter.email}`}
       >
         {data.homeData.edges[0].node.frontmatter.email}
       </a>
-    </article>
+    </section>
 
-    <article className={styles.gallery}>
+    <section className={styles.gallery}>
       {data.homeData.edges[0].node.frontmatter.gallery.map((image) => {
         <Img fluid={image.childImageSharp.fluid} />;
       })}
-    </article>
+    </section>
 
-    <article className={styles.upcoming}>
+    <section className={styles.upcoming}>
       <h1 className="sectionTitle">Upcoming Performances</h1>
       <ul>
         {data.homeData.edges[0].node.frontmatter.upcoming_performances.map((performance) => {
@@ -70,7 +70,7 @@ const Home = ({data}) => (
           );
         })}
       </ul>
-    </article>
+    </section>
     
   </Layout>
 );
