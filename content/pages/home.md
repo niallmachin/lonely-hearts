@@ -23,4 +23,7 @@ email: niall_has_no_fallon@gmail.com
 facebook: https://www.facebook.com/alex.muller.77715?sk=wall
 instagram: https://www.instagram.com/tonyeffebaby777/
 whilst_walking: www.theuselessweb.com
+upcoming_performances: 
+  - GUT BUDDIES - 15th-17th May - Brighton Fringe Festival, UK - The Warren, The Nest 
+  - ANTHROPOCOSMIC - 18th April - Dia de l'Art Festival, Catalunya - Nau Coclea
 ---

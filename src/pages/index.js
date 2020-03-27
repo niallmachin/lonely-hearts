@@ -45,6 +45,33 @@ const Home = ({data}) => (
         })}
       </div>
     </article>
+
+    <article className={styles.contacts}>
+      <h1 className="sectionTitle">Contact</h1>
+      <a 
+        href={`mailto:${data.homeData.edges[0].node.frontmatter.email}`}
+      >
+        {data.homeData.edges[0].node.frontmatter.email}
+      </a>
+    </article>
+
+    <article className={styles.gallery}>
+      {data.homeData.edges[0].node.frontmatter.gallery.map((image) => {
+        <Img fluid={image.childImageSharp.fluid} />;
+      })}
+    </article>
+
+    <article className={styles.upcoming}>
+      <h1 className="sectionTitle">Upcoming Performances</h1>
+      <ul>
+        {data.homeData.edges[0].node.frontmatter.upcoming_performances.map((performance) => {
+          return (
+            <li key={performance} className={styles.performance}>{performance}</li>
+          );
+        })}
+      </ul>
+    </article>
+    
   </Layout>
 );
 
@@ -99,6 +126,18 @@ export const query = graphql`
                   }
                 }
               }
+              gallery {
+                childImageSharp {
+                  fluid {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              email
+              facebook
+              instagram
+              whilst_walking
+              upcoming_performances
             }
           }
         }
