@@ -1,7 +1,7 @@
 ---
 template: project
 title: The Elephant's Workshop
-  gallery:
+gallery:
   - "/uploads/Picture1.png"
   - "/uploads/DSC00548.jpg"
   - "/uploads/DSC00584.jpg"
