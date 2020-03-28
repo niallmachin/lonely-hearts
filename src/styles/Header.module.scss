@@ -23,6 +23,7 @@ nav {
     ul {
         padding: 0.6rem 2rem;
         display: flex;
+        justify-content: space-around;
         list-style: none;
         li {
             padding: 0 1rem;
@@ -33,5 +34,23 @@ nav {
 
             }
         }
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        nav {
+            ul {
+                padding: 0.4rem;
+                li {
+                    font-size: 0.6rem;
+                }
+            }
+        }
+    }
+    .logo {
+        position: relative;
+        margin-bottom: 1rem;
     }
 }
