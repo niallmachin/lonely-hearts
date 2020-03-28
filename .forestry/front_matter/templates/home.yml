@@ -1,0 +1,31 @@
+---
+label: Home
+hide_body: true
+fields:
+- type: file
+  name: main_image
+  label: main_image
+- type: file
+  name: headshot
+  label: headshot
+- type: textarea
+  name: about
+  label: about
+- type: image_gallery
+  name: gallery
+  label: gallery
+- type: text
+  name: email
+  label: email
+- type: text
+  name: facebook
+  label: facebook
+- type: text
+  name: instagram
+  label: instagram
+- type: text
+  name: whilst_walking
+  label: whilst_walking
+- type: list
+  name: upcoming_performances
+  label: upcoming_performances
