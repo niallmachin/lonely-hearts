@@ -1,22 +1,24 @@
- @import '_constants.scss';
- 
- html, body {
-     margin: 0;
-     font-family: 'Josefin Sans';
-     background-color: $red;
-     color: $cream;
- }
+@import '_constants.scss';
 
- p {
-     font-size: 20px;
-     line-height: 1.5;
-     font-weight: 200;
- }
+html, body {
+    margin: 0;
+    font-family: 'Josefin Sans';
+    background-color: $red;
+    color: $cream;
+}
+main {
+    border-bottom: solid $black 2px;
+}
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 200;
+}
 
- .sectionTitle {
-    text-align: center;
-    font-size: 40px;
-    background-color: $purple; 
-    padding: 1.5rem 3rem;
-    border-radius: 1.5rem;
- }
+.sectionTitle {
+text-align: center;
+font-size: 40px;
+background-color: $purple; 
+padding: 1.5rem 3rem;
+border-radius: 1.5rem;
+}
