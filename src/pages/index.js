@@ -62,7 +62,7 @@ const Home = ({data}) => (
 
     <section className={styles.gallery}>
       {data.homeData.edges[0].node.frontmatter.gallery.map((image) => {
-        <Img fluid={image.childImageSharp.fluid} />;
+        return <Img key={image.id} className={styles.galleryImage} fluid={image.childImageSharp.fluid} />;
       })}
     </section>
 
@@ -99,6 +99,7 @@ export const query = graphql`
             frontmatter {
               title
               gallery {
+                id
                 childImageSharp {
                   fluid (maxWidth: 300, maxHeight: 300, cropFocus: CENTER) {
                     ...GatsbyImageSharpFluid
@@ -132,6 +133,7 @@ export const query = graphql`
                 }
               }
               gallery {
+                id
                 childImageSharp {
                   fluid {
                     ...GatsbyImageSharpFluid

@@ -82,3 +82,40 @@
     color: $cream;
     display: none;
 }
+.contacts {
+    display: flex;
+    background-color: $purple;
+    justify-content: center;
+    align-items: center;
+    width: min-content;
+    margin: 8rem auto;
+    border-radius: 1.5rem;
+    * {
+        padding: 1rem 3rem;
+    }
+    a {
+        color: $cream;
+        font-size: 2rem;
+    }
+}
+
+.gallery {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    .gallery-image {
+        width: 20%;
+        margin: 2rem;
+    }
+}
+
+.upcoming {
+    ul {
+        li {
+            list-style: none;
+            font-weight: 400;
+            font-size: 1.3rem;
+            margin: 2rem;
+        }
+    }
+}
