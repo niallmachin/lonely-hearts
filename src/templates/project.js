@@ -4,16 +4,16 @@ import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import Layout from '../components/layout';
 import Img from 'gatsby-image';
-import styles from '../styles/Post.module.scss';
 import Markdown from 'markdown-to-jsx';
+import styles from '../styles/Project.module.scss';
 
 const Post = ({data}) => {
   return (
     <Layout>
-      <h1>{data.postData.frontmatter.title}</h1>
+      <h1 className={styles.title}>{data.postData.frontmatter.title}</h1>
       <section className={styles.gallery}>
         {data.postData.frontmatter.gallery.map(image => {
-          return <Img key={image.id} fluid={image.childImageSharp.fluid} />;
+          return <Img className={styles.thumbnail} key={image.id} fluid={image.childImageSharp.fluid} />;
         })}
       </section>
       <section className={styles.postBody}>

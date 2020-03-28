@@ -1,0 +1,24 @@
+@import '_constants.scss';
+
+.title {
+    margin: inherit auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 1480px;
+    margin: 0 auto;
+}
+
+.thumbnail {
+    width: 30%;
+}
+
+.postBody {
+    max-width: 1024px;
+    margin: 3rem auto;
+}
