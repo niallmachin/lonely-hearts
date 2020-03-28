@@ -120,7 +120,7 @@ export const query = graphql`
               about
               headshot {
                 childImageSharp {
-                  fluid {
+                  fluid (maxWidth: 300, maxHeight: 300, cropFocus: CENTER){
                     ...GatsbyImageSharpFluid
                   }
                 }
