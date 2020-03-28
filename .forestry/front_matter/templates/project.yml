@@ -5,9 +5,10 @@ fields:
 - type: text
   name: template
   label: template
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: image_gallery
   name: gallery
-  label: gallery
+  label: Gallery
