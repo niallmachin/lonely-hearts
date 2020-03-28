@@ -1,6 +1,22 @@
  @import '_constants.scss';
-
+ 
  html, body {
      margin: 0;
      font-family: 'Josefin Sans';
+     background-color: $red;
+     color: $cream;
+ }
+
+ p {
+     font-size: 20px;
+     line-height: 1.5;
+     font-weight: 200;
+ }
+
+ .sectionTitle {
+    text-align: center;
+    font-size: 40px;
+    background-color: $purple; 
+    padding: 1.5rem 3rem;
+    border-radius: 1.5rem;
  }

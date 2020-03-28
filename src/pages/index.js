@@ -25,7 +25,7 @@ const Home = ({data}) => (
 
     <section id="about" className={styles.about}>
       <Img className={styles.headshot} fluid={data.homeData.edges[0].node.frontmatter.headshot.childImageSharp.fluid} />
-      <div>
+      <div className={styles.bio}>
         <Markdown>
           {data.homeData.edges[0].node.frontmatter.about}
         </Markdown>
@@ -38,8 +38,13 @@ const Home = ({data}) => (
       <div className={styles.projectList}>
         {data.projectsData.edges.map((project) => {
           return (
-            <Link to={project.node.fields.slug} key={project.node.frontmatter.title}>
-              <Img  fluid={project.node.frontmatter.gallery[0].childImageSharp.fluid}/>
+            <Link className={styles.projectWrap} to={project.node.fields.slug} key={project.node.frontmatter.title}>
+              <Img className={styles.project}fluid={project.node.frontmatter.gallery[0].childImageSharp.fluid}/>
+              <div className={styles.projectInfo}>
+                <h2>
+                  {project.node.frontmatter.title}
+                </h2>
+              </div>
             </Link>
           );
         })}
@@ -95,7 +100,7 @@ export const query = graphql`
               title
               gallery {
                 childImageSharp {
-                  fluid {
+                  fluid (maxWidth: 300, maxHeight: 300, cropFocus: CENTER) {
                     ...GatsbyImageSharpFluid
                   }
                 }
