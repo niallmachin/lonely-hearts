@@ -13,4 +13,5 @@ fields:
   name: gallery
   label: Gallery
 pages:
+- content/projects/take-a-workshop.md
 - content/projects/the-whilst-walking-tour.md
