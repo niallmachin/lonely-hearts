@@ -1,10 +1,9 @@
 ---
 template: ''
-title: Take a Workshop
+title: 'Workshops '
 gallery:
 - "/uploads/IMG_9737.jpeg"
 - "/uploads/9B17483F-C0D4-47B5-8B02-994E912AA924.jpeg"
-- "/uploads/IMG_9737.JPG"
 - "/uploads/Participants on floor _edited.jpg"
 
 ---
@@ -14,8 +13,6 @@ Seeing the whole body as a physical tool for creation, we take playful technique
 
 All workshops can range from 1-4 days, and the content is flexible to requests. The workshop can be tailored to children (ages 5+), drama students, young adults, or adults with or without performance experience. I have previously created workshops that range from 2 hours long to 6-day residential experiences in countries such as India, Spain, Germany, and the UK. Therefore, aiming to design a package that fits with and suits your needs.
 
-​
-
 Workshops are also offered internationally. Please email us for more information at:
 
-[NIALLFALLON1994@GMAIL.COM]() 
+[NIALLFALLON1994@GMAIL.COM]()
