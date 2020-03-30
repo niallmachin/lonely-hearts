@@ -143,7 +143,6 @@ export const query = graphql`
               email
               facebook
               instagram
-              whilst_walking
               upcoming_performances
             }
           }
