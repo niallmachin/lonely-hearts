@@ -2,10 +2,10 @@
 template: project
 title: Gut Buddies
 gallery:
-- ''
-- "/uploads/DSC00548.jpg"
-- "/uploads/DSC00584.jpg"
-- "/uploads/DSC00741.jpg"
+- "/uploads/DSC00633.jpg"
+- "/uploads/09B92F47-9A44-482D-8BCC-B7CE9763F789_1_105_c.jpeg"
+- "/uploads/DSC_3252 (1).jpg"
+- "/uploads/DSC00610.jpg"
 
 ---
 "Surreal, silly, insightful..." Fringe Guru ****
