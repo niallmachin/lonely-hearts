@@ -8,7 +8,7 @@ gallery:
 - "/uploads/_DSC8196_edited.jpg"
 - "/uploads/DSC06753.jpg"
 - "/uploads/_DSC8277_edited.jpg"
-
+date: 2019-01-05T22:00:00Z
 ---
 The Whilst Walking Theatre Festival was a national tour across India, including performances, theatrical experiments, and workshops, all executed in a Theatre Lab setting. The Showcase was informed and inspired by the performer’s contemporary European contexts, alongside myths and the personal stories of the creators. The seven-person collective was for the first time present in front of Indian audiences exploring the universal appeal of creation methods.
 

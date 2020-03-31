@@ -1,11 +1,11 @@
 ---
 template: project
-title: 'Anthropocosmic '
+title: 'Anthropocosmic'
 gallery:
 - "/uploads/Picture 1.png"
 - "/uploads/DSC_8169.jpg"
 - "/uploads/DSC_8571.jpg"
-
+date: 2019-03-05T22:00:00Z
 ---
 **Anthropocosmic** is a devised piece of experimental, mixed-media theatre. The piece combines simple, primary characters, object work and relational movement with live music, soundscapes, projection and camera work. The first stage of the piece was created at the experimental arts centre Nau Coclea, in Catalunya.
 

@@ -5,7 +5,7 @@ gallery:
 - "/uploads/IMG_9737.jpeg"
 - "/uploads/9B17483F-C0D4-47B5-8B02-994E912AA924.jpeg"
 - "/uploads/Participants on floor _edited.jpg"
-
+date: 2019-02-05T22:00:00Z
 ---
 Alongside creating productions, a key part of my practice is teaching workshops to schools, drama groups and other theatre companies. I strive to have an ever-changing artistic practice by working side-by-side with the new generation of theatre makers, facilitating participant’s unique charisma and evoking their capacity to dream.
 

@@ -90,7 +90,7 @@ export const query = graphql`
           description
         }
       }
-      projectsData: allMarkdownRemark(filter: {fields: {slug: {nin: ["/home/", "/about/"]}}} ) {
+      projectsData: allMarkdownRemark(filter: {fields: {slug: {nin: ["/home/", "/about/"]}}}, sort: {fields: frontmatter___date order: DESC}) {
         edges {
           node {
             fields {
