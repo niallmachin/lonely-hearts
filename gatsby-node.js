@@ -24,7 +24,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
   const result = await graphql(`
     query {
-      allMarkdownRemark(filter: {fields: {slug: {nin: "/home/"}}}) {
+      allMarkdownRemark(filter: {fields: {slug: {nin: ["/home/", "/about/"]}}}) {
         edges {
           node {
             fields {

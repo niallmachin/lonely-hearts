@@ -3,25 +3,16 @@ import React from 'react';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 
-import BackgroundImage from 'gatsby-background-image';
 import styles from '../styles/Home.module.scss';
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import Markdown from 'markdown-to-jsx';
 
-const Home = ({data}) => (
+const About = ({data}) => (
   <Layout>
     <SEO title="Home" />
-    <BackgroundImage
-      fluid={data.homeData.edges[0].node.frontmatter.main_image.childImageSharp.fluid}
-      backgroundColor={'#000000'}
-    >
-      <div className={styles.introSlide}>
-        <h1 className={styles.title}>{data.site.siteMetadata.title}</h1>
-        <h2 className={styles.subTitle}>{data.site.siteMetadata.description}</h2>
-      </div>
-    </BackgroundImage>
+    <h1>About</h1>
 
     <section id="about" className={styles.about}>
       <Img className={styles.headshot} fluid={data.homeData.edges[0].node.frontmatter.headshot.childImageSharp.fluid} />
@@ -80,10 +71,10 @@ const Home = ({data}) => (
   </Layout>
 );
 
-export default Home;
+export default About;
 
 export const query = graphql`
-    query HomeQuery {
+    query AboutQuery {
       site {
         siteMetadata {
           title
@@ -151,6 +142,6 @@ export const query = graphql`
     }
   `;
 
-Home.propTypes = {
+About.propTypes = {
   data: PropTypes.node,
 };
