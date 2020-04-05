@@ -7,6 +7,7 @@ module.exports = {
     author: '@matteocarpi',
   },
   plugins: [
+    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
@@ -18,29 +19,14 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 1024,
+              linkImagesToOriginal: false,
             },
           },
-        ],
-      },
-    },
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        // CommonMark mode (default: true)
-        commonmark: true,
-        // Footnotes mode (default: true)
-        footnotes: true,
-        // Pedantic mode (default: true)
-        pedantic: true,
-        // GitHub Flavored Markdown mode (default: true)
-        gfm: true,
-        // Plugins configs
-        plugins: [
           '@forestryio/gatsby-remark-normalize-paths',
+          'gatsby-remark-copy-linked-files',
         ],
       },
     },
-    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
@@ -63,7 +49,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'images',
+        name: 'uploads',
         // eslint-disable-next-line no-undef
         path: `${__dirname}/uploads`,
       },

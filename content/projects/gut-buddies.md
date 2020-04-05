@@ -15,7 +15,7 @@ A parasitic worm and a white blood cell in the intestines. This absurdist physic
 
 ### See more work by the company at:
 
-![](/uploads/Bacterial Factory logo .png)
+![](/uploads/Bacterial-Factory-logo.png)
 
 This performance was premiered in 2018, and toured through 2019:
 
