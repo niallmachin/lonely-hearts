@@ -22,6 +22,7 @@
     "gatsby-plugin-sharp": "^2.5.3",
     "gatsby-remark-copy-linked-files": "^2.2.1",
     "gatsby-remark-images": "^3.2.1",
+    "gatsby-remark-images-anywhere": "^1.2.1",
     "gatsby-remark-normalize-paths": "^1.0.0",
     "gatsby-source-filesystem": "^2.1.56",
     "gatsby-transformer-remark": "^2.7.1",

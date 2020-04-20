@@ -20,6 +20,9 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 1024,
               linkImagesToOriginal: true,
+              plugins: [
+                'gatsby-remark-images-anywhere',
+              ],
             },
           },
           '@forestryio/gatsby-remark-normalize-paths',
