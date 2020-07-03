@@ -1,15 +1,16 @@
 ---
 template: project
-title: 'The Whilst Walking Tour India '
+title: "The Whilst Walking Tour India "
 gallery:
-- "/uploads/Group picture_edited.jpg"
-- "/uploads/Kamshet.jpg"
-- "/uploads/team in auto.jpg"
-- "/uploads/_DSC8196_edited.jpg"
-- "/uploads/DSC06753.jpg"
-- "/uploads/_DSC8277_edited.jpg"
+  - "/content/images/Group picture_edited.jpg"
+  - "/content/images/Kamshet.jpg"
+  - "/content/images/team in auto.jpg"
+  - "/content/images/_DSC8196_edited.jpg"
+  - "/content/images/DSC06753.jpg"
+  - "/content/images/_DSC8277_edited.jpg"
 date: 2019-01-05T22:00:00Z
 ---
+
 The Whilst Walking Theatre Festival was a national tour across India, including performances, theatrical experiments, and workshops, all executed in a Theatre Lab setting. The Showcase was informed and inspired by the performer’s contemporary European contexts, alongside myths and the personal stories of the creators. The seven-person collective was for the first time present in front of Indian audiences exploring the universal appeal of creation methods.
 
 At the heart of the work was an exploration of the physical ensemble in performance. By using the body as a physical tool for creation, we explored the idea of a collective unconscious. In connection with our training, we searched for organic, historical and mythical means of communication through the body in theatre.
@@ -25,7 +26,7 @@ Curated and facilitated by Niall Fallon, Julia Vandehof, Titas Dutta, Ainhoa Hev
 
 \[object HTMLLIElement\]
 
-![Whilst%20walking%20logo%20_edited.png](https://static.wixstatic.com/media/f8b1aa_da3fa11d678d4b26aa3572f90c500353\~mv2.png/v1/fill/w_355,h_113,al_c,q_85,usm_0.66_1.00_0.01/Whilst%2520walking%2520logo%2520_edited.webp)
+![Whilst%20walking%20logo%20_edited.png](https://static.wixstatic.com/media/f8b1aa_da3fa11d678d4b26aa3572f90c500353~mv2.png/v1/fill/w_355,h_113,al_c,q_85,usm_0.66_1.00_0.01/Whilst%2520walking%2520logo%2520_edited.webp)
 
 The tour and subsequent workshops took place in the following:
 

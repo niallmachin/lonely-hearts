@@ -12,6 +12,24 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          'gatsby-remark-relative-images',
+          'gatsby-remark-normalize-paths',
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 1000,
+              linkImagesToOriginal: false,
+            },
+          },
+        ],
+      },
+    },
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          'gatsby-remark-relative-images',
+          'gatsby-remark-normalize-paths',
           {
             resolve: 'gatsby-remark-images',
             options: {
@@ -20,9 +38,7 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 1024,
               linkImagesToOriginal: true,
-              plugins: [
-                'gatsby-remark-images-anywhere',
-              ],
+              plugins: ['gatsby-remark-images-anywhere'],
             },
           },
           '@forestryio/gatsby-remark-normalize-paths',
@@ -33,10 +49,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: [
-          'Josefin Sans\:200,400,700',
-          'Josefin Slab\:400,600,700',
-        ],
+        fonts: ['Josefin Sans:200,400,700', 'Josefin Slab:400,600,700'],
         display: 'swap',
       },
     },
@@ -54,7 +67,7 @@ module.exports = {
       options: {
         name: 'uploads',
         // eslint-disable-next-line no-undef
-        path: `${__dirname}/uploads`,
+        path: `${__dirname}/content/images`,
       },
     },
     {
