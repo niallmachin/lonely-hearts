@@ -37,7 +37,7 @@
     "rehype-react": "^5.0.1"
   },
   "devDependencies": {
-    "netlify-cli": "^2.40.0",
+    "netlify-cli": "^2.57.0",
     "prettier": "^1.19.1"
   },
   "keywords": [
