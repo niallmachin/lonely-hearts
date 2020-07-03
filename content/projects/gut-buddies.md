@@ -13,7 +13,7 @@ A parasitic worm and a white blood cell in the intestines. This absurdist physic
 
 ### See more work by the company at:
 
-![](../images/Bacterial-Factory-logo.png)
+![porcoddio](../images/Bacterial-Factory-logo.png)
 
 This performance was premiered in 2018, and toured through 2019:
 
