@@ -1,5 +1,9 @@
 @import '_constants.scss';
 
+main {
+    display: flex;
+    flex-direction: column;
+}
 .introSlide {
     height: 60vh;
     min-height: 200px;
@@ -96,21 +100,28 @@
     display: none;
 }
 .contacts {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     background-color: $purple;
     justify-content: center;
     align-items: center;
-    width: min-content;
     margin: 8rem auto;
     border-radius: 1.5rem;
+    padding: 1rem 0;
+    h1 {
+        margin: 0;
+    }
     * {
         padding: 1rem 3rem;
     }
     a {
         color: $cream;
         font-size: 2rem;
-        margin-bottom: 2rem;
+        font-weight: 400;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }
 @media (max-width: 768px) {
