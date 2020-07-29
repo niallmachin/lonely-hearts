@@ -2,63 +2,63 @@
 // eslint-disable-next-line no-undef
 module.exports = {
   siteMetadata: {
-    title: "Niall Fallon",
-    description: "Theatre Maker | Performer",
-    author: "@matteocarpi",
+    title: 'Niall Fallon',
+    description: 'Theatre Maker | Performer',
+    author: '@matteocarpi',
   },
   plugins: [
-    "gatsby-plugin-sass",
+    'gatsby-plugin-sass',
     {
-      resolve: "gatsby-transformer-remark",
+      resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          "gatsby-remark-relative-images",
-          "gatsby-remark-normalize-paths",
+          'gatsby-remark-relative-images',
+          'gatsby-remark-normalize-paths',
           {
-            resolve: "gatsby-remark-images",
+            resolve: 'gatsby-remark-images',
             options: {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 1024,
               linkImagesToOriginal: false,
-              backgroundColor: "transparent",
-              plugins: ["gatsby-remark-images-anywhere"],
+              backgroundColor: 'transparent',
+              plugins: ['gatsby-remark-images-anywhere'],
             },
           },
-          "@forestryio/gatsby-remark-normalize-paths",
-          "gatsby-remark-copy-linked-files",
+          '@forestryio/gatsby-remark-normalize-paths',
+          'gatsby-remark-copy-linked-files',
         ],
       },
     },
     {
-      resolve: "gatsby-plugin-google-fonts",
+      resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: ["Josefin Sans:200,400,700", "Josefin Slab:400,600,700"],
-        display: "swap",
+        fonts: ['Josefin Sans:200,400,700', 'Josefin Slab:400,600,700'],
+        display: 'swap',
       },
     },
-    "gatsby-plugin-react-helmet",
+    'gatsby-plugin-react-helmet',
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "images",
+        name: 'images',
         // eslint-disable-next-line no-undef
         path: `${__dirname}/src/images`,
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "uploads",
+        name: 'uploads',
         // eslint-disable-next-line no-undef
         path: `${__dirname}/content/images`,
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "content",
+        name: 'content',
         // eslint-disable-next-line no-undef
         path: `${__dirname}/content`,
       },
@@ -71,22 +71,22 @@ module.exports = {
     //     path: `${__dirname}/content/posts`,
     //   },
     // },
-    "gatsby-transformer-sharp",
-    "gatsby-plugin-sharp",
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
-      resolve: "gatsby-plugin-manifest",
+      resolve: 'gatsby-plugin-manifest',
       options: {
-        name: "tameto-gatsby",
-        short_name: "tameto",
-        start_url: "/",
-        background_color: "#F6D98E",
-        theme_color: "#3B4566",
-        display: "minimal-ui",
-        icon: "src/images/icon.png", // This path is relative to the root of the site.
+        name: 'tameto-gatsby',
+        short_name: 'tameto',
+        start_url: '/',
+        background_color: '#F6D98E',
+        theme_color: '#3B4566',
+        display: 'minimal-ui',
+        icon: 'src/images/icon.png', // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-}
+};
