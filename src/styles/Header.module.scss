@@ -26,12 +26,39 @@ nav {
         justify-content: space-around;
         list-style: none;
         li {
+            position: relative;
             padding: 0 1rem;
             text-transform: uppercase;
             .navLink {
                 text-decoration: none;
                 color: $grey;
-
+            }
+            ul {
+                border-left: 1px solid $grey;
+                padding: 0;
+                flex-direction: column;
+                align-items: flex-start;
+                position: absolute;
+                background-color: $cream;
+                display: none;
+                animation: fadeIn 0.2s ease-in-out;
+                li {
+                    top: 15px;
+                    padding: 0.5rem;
+                    background-color: $cream;
+                    a {
+                        color: $grey;
+                        text-decoration: none;
+                        text-transform: none;
+                        white-space: nowrap;
+                        font-weight: 400;
+                    }
+                }
+            }
+            &:hover {
+                ul {
+                    display: flex;
+                }
             }
         }
     }
