@@ -1,28 +1,35 @@
-@import '_constants.scss';
+@import "_constants.scss";
 
 .title {
-    margin: inherit auto;
-    text-align: center;
-    font-size: 40px;
+  margin: inherit auto;
+  text-align: center;
+  font-size: 40px;
 }
-
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    width: 100%;
-    max-width: 1480px;
-    margin: 0 auto;
-}
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1440px;
 
-.thumbnail {
-    width: 30%;
-    min-width: 250px;
-    margin: 1rem 0;
+  .thumbnail {
+    height: 100%;
+    &.vertical {
+      min-width: 300px;
+    }
+    &.horizontal {
+      min-width: calc(300px * 4 / 3);
+    }
+  }
 }
 
 .postBody {
-    max-width: 1024px;
-    margin: 3rem auto;
-    padding: 0 1rem;
+  max-width: 1024px;
+  margin: 3rem auto;
+  padding: 0 1rem;
 }
