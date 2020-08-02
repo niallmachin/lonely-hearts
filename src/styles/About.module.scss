@@ -1,24 +1,25 @@
 @import '_constants.scss';
 
-.title {
-    margin: 4rem;
-    text-align: center;
-}
 
 .about {
     padding: 2rem 0;
-    max-width: 900px;
+    max-width: 1000px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     margin: auto;
-
     .headshot {
-        width: 80%;
-        max-width: 300px;
+        width: 40%;
+        max-width: 400px;
     }
     .bio {
-        width: 50%;
+        width: 55%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        .title {
+            text-transform: uppercase;
+        }
     }
 }

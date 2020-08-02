@@ -12,7 +12,6 @@ import Markdown from 'markdown-to-jsx';
 const About = ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <h1 className={styles.title}>About</h1>
 
     <section id="about" className={styles.about}>
       <Img
@@ -23,6 +22,7 @@ const About = ({ data }) => (
         }
       />
       <div className={styles.bio}>
+        <h1 className={styles.title}>About</h1>
         <Markdown>{data.aboutData.edges[0].node.frontmatter.about}</Markdown>
       </div>
     </section>
