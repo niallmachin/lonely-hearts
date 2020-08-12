@@ -1,6 +1,6 @@
 ---
 template: project
-title: 'The Whilst Walking Tour India '
+title: 'THE WHILST WALKING TOUR INDIA '
 gallery:
 - "/content/images/Group picture_edited.jpg"
 - "/content/images/Kamshet.jpg"
