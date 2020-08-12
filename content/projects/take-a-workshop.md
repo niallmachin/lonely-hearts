@@ -1,13 +1,13 @@
 ---
-template: ""
-title: "Workshops "
+template: ''
+title: 'Workshops '
 gallery:
-  - "/content/images/IMG_9737.jpeg"
-  - "/content/images/9B17483F-C0D4-47B5-8B02-994E912AA924.jpeg"
-  - "/content/images/Participants on floor _edited.jpg"
-date: 2019-02-05T22:00:00Z
----
+- "/content/images/Participants on floor _edited.jpg"
+- "/content/images/IMG_9737.jpeg"
+- "/content/images/9B17483F-C0D4-47B5-8B02-994E912AA924.jpeg"
+date: 2019-02-05T22:00:00.000+00:00
 
+---
 Alongside creating productions, a key part of my practice is teaching workshops to schools, drama groups and other theatre companies. I strive to have an ever-changing artistic practice by working side-by-side with the new generation of theatre makers, facilitating participant’s unique charisma and evoking their capacity to dream.
 
 Seeing the whole body as a physical tool for creation, we take playful techniques and theatre games to challenge how we perceive the process of making theatre, often combining forms of physical comedy, tragedy, personal storytelling, and even multimedia. I am currently running a series of different workshop modules including themes of environmentalism, territory, and the strangeness of our bodies.
