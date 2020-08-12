@@ -1,13 +1,13 @@
 ---
 template: project
-title: 'THE WHILST WALKING TOUR INDIA '
+title: 'The Whilst Walking Tour India '
 gallery:
-- "/content/images/Group picture_edited.jpg"
 - "/content/images/Kamshet.jpg"
+- "/content/images/_dsc8277.jpeg"
+- "/content/images/Train .jpg"
+- "/content/images/Group picture_edited.jpg"
 - "/content/images/team in auto.jpg"
-- "/content/images/_DSC8196_edited.jpg"
 - "/content/images/DSC06753.jpg"
-- "/content/images/_DSC8277_edited.jpg"
 date: 2019-01-05T22:00:00.000+00:00
 
 ---
