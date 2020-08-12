@@ -14,9 +14,6 @@ facebook: https://www.facebook.com/niall.machin
 instagram: https://www.instagram.com/nialljlmf/
 whilst_walking: ''
 upcoming_performances:
-- "[POSTPONED] GUT BUDDIES - 15th-17th May - Brighton Fringe Festival, UK - The Warren,
-  The Nest"
-- "[POSTPONED] ANTHROPOCOSMIC - 18th April - Dia de l'Art Festival, Catalunya - Nau
-  Coclea"
+- ANTHROPOCOSMIC - 5th September - Dia de l'Art Festival, Catalunya - Nau Coclea
 
 ---
