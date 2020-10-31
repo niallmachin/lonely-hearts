@@ -9,7 +9,6 @@ gallery:
 - "/content/images/26cef6bb-603e-4b5a-b813-92ba23f82df7_1_100_o.jpeg"
 - "/content/images/50679a68-dcce-4acc-8871-e840a46b511a_1_201_a.jpeg"
 - "/content/images/f521d442-ed74-4568-87a0-72026bb31b27_1_201_a.jpeg"
-- "/content/images/4f833a99-ecad-417b-9403-0a8b7e7b2ce4_1_201_a.jpeg"
 - "/content/images/ed16acde-6765-4c59-9a1c-61e3051d8f53_1_100_o.jpeg"
 - "/content/images/ec0682c4-f3c3-4d97-b51c-ed5ce8da6fec_1_100_o.jpeg"
 - "/content/images/777aadf5-5a62-41b7-8117-6a4a0e2a14ef_1_100_o.jpeg"
@@ -24,4 +23,6 @@ Freely flowing from the everyday to the absurd, the piece explores the mundanene
 
 The piece premiered at Nau Coclea Catalunya during the national Festival Dia de ‘art.
 
-[https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ](https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ "https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ")
+[https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ](https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ "https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ") 
+
+[https://www.youtube.com/watch?v=VYB5gnQmrR4](https://www.youtube.com/watch?v=VYB5gnQmrR4 "https://www.youtube.com/watch?v=VYB5gnQmrR4")
