@@ -23,3 +23,5 @@ date: 2019-03-05T22:00:00.000+00:00
 Freely flowing from the everyday to the absurd, the piece explores the mundaneness of life with characters we grew up with, and other times expanding into ritualistic, mythological and cosmic spaces. The project came from a recurrent performative exploration of touching on the modesty of our own roots in relation to bigger, fantastical spaces. Two modern men in a room with a guitar and a keyboard conveying their confused vision of something bigger, something spiritual - the tragedy and modest beauty of this conflict lies at the heart of the piece.
 
 The piece premiered at Nau Coclea Catalunya during the national Festival Dia de ‘art.
+
+[https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ](https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ "https://www.youtube.com/channel/UClTw9-iDrXKtH253_yBEjOQ")
