@@ -7,7 +7,9 @@ gallery:
   - "/content/images/DSC_3252 (1).jpg"
   - "/content/images/DSC00610.jpg"
 date: 2019-05-05T22:00:00Z
----"Surreal, silly, insightful..." Fringe Guru \*\*\*\*
+---
+
+"Surreal, silly, insightful..." Fringe Guru \*\*\*\*
 
 A parasitic worm and a white blood cell in the intestines. This absurdist physical comedy piece blends cartoon imagery with colourful, eccentric characters that are magnetic in empathy.
 
