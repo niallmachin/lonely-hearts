@@ -23,6 +23,6 @@ Freely flowing from the every day to the absurd, the piece explores the mundanen
 
 The piece premiered at Nau Coclea Catalunya during the national Festival Dia de ‘art.
 
-<iframe width="966" height="543" src="https://www.youtube.com/embed/VYB5gnQmrR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/VYB5gnQmrR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <iframe width="966" height="543" src="https://www.youtube.com/embed/rnRMLaGzrtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

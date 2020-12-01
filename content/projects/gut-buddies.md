@@ -15,7 +15,9 @@ A parasitic worm and a white blood cell in the intestines. This absurdist physic
 
 ### See more work by the company at:
 
-### ![](/content/images/Bacterial-Factory-logo.png)
+https://bacterialfactory.com
+
+### ![https://bacterialfactory.com](/content/images/Bacterial-Factory-logo.png "https://bacterialfactory.com")
 
 This performance was premiered in 2018, and toured through 2019:
 
@@ -43,11 +45,10 @@ _2nd - 26th of August, 2019 - Edinburgh Fringe Festival - Edinburgh, UK_
 
 ![](/content/images/Screenshot 2020-01-24 at 12.11.18.jpeg)![](/content/images/Screenshot 2020-01-24 at 12.11.54.jpeg)
 
-<iframe src="[https://player.vimeo.com/video/349909318](https://player.vimeo.com/video/349909318 "https://player.vimeo.com/video/349909318")" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/349909318" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="[https://vimeo.com/349909318](https://vimeo.com/349909318 "https://vimeo.com/349909318")">Gut Buddies - Trailer</a> from <a href="[https://vimeo.com/user101132328](https://vimeo.com/user101132328 "https://vimeo.com/user101132328")">Bacterial Factory</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/349909318">Gut Buddies - Trailer</a> from <a href="https://vimeo.com/user101132328">Bacterial Factory</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-  
-<iframe src="[https://player.vimeo.com/video/293715464](https://player.vimeo.com/video/293715464 "https://player.vimeo.com/video/293715464")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/293715464" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="[https://vimeo.com/293715464](https://vimeo.com/293715464 "https://vimeo.com/293715464")">Gut Buddies - Teaser Trailer</a> from <a href="[https://vimeo.com/gutbuddies](https://vimeo.com/gutbuddies "https://vimeo.com/gutbuddies")">Gut Buddies</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/293715464">Gut Buddies - Teaser Trailer</a> from <a href="https://vimeo.com/gutbuddies">Gut Buddies</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
