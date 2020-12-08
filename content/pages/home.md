@@ -13,7 +13,7 @@ gallery: []
 email: niallfallon1994@gmail.com
 facebook: https://www.facebook.com/niall.machin
 instagram: https://www.instagram.com/nialljlmf/
-whilst_walking: ''
+whilst_walking: https://soundcloud.com/user-9424
 upcoming_performances:
 - ANTHROPOCOSMIC - 5th September - Dia de l'Art Festival, Catalunya - Nau Coclea
 
