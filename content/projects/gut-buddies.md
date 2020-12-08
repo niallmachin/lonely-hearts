@@ -43,7 +43,9 @@ _6th of July, 2019 - IYAF - Kingston, UK_
 
 _2nd - 26th of August, 2019 - Edinburgh Fringe Festival - Edinburgh, UK_
 
-![](/content/images/Screenshot 2020-01-24 at 12.11.18.jpeg)![](/content/images/Screenshot 2020-01-24 at 12.11.54.jpeg)
+![](/content/images/Screenshot 2020-01-24 at 12.11.18.jpeg)
+
+![](/content/images/Screenshot 2020-01-24 at 12.11.54.jpeg)
 
 <iframe src="https://player.vimeo.com/video/349909318" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
