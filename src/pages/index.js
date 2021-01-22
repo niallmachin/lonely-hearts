@@ -50,7 +50,7 @@ const Home = ({ data }) => (
               to={project.node.fields.slug}
               key={project.node.frontmatter.title}
             >
-              {project.node.frontmatter.gallery && (
+              {project.node.frontmatter.gallery.length > 0 && (
                 <Img
                   className={styles.project}
                   fluid={
@@ -75,7 +75,7 @@ const Home = ({ data }) => (
     </section>
 
     <section className={styles.gallery}>
-      {data.homeData.edges[0].node.frontmatter.gallery.map(image => {
+      {data.homeData.edges[0].node.frontmatter.gallery?.map(image => {
         return (
           <Img
             key={image.id}
