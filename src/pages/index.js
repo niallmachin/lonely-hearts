@@ -171,6 +171,7 @@ export const query = graphql`
             email
             facebook
             instagram
+            soundcloud
             upcoming_performances
           }
         }

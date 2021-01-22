@@ -24,6 +24,9 @@ fields:
   name: instagram
   label: instagram
 - type: text
+  name: soundcloud
+  label: soundcloud
+- type: text
   name: whilst_walking
   label: Whilst Walking
 - type: list
