@@ -1,14 +1,14 @@
-import React from 'react';
+import React from "react"
 
-import Layout from '../components/layout';
-import SEO from '../components/seo';
+import Layout from "../components/layout"
+import SEO from "../components/seo"
 
-import BackgroundImage from 'gatsby-background-image';
-import styles from '../styles/Home.module.scss';
-import { graphql, Link } from 'gatsby';
-import PropTypes from 'prop-types';
-import Img from 'gatsby-image';
-import Markdown from 'markdown-to-jsx';
+import BackgroundImage from "gatsby-background-image"
+import styles from "../styles/Home.module.scss"
+import { graphql, Link } from "gatsby"
+import PropTypes from "prop-types"
+import Img from "gatsby-image"
+import Markdown from "markdown-to-jsx"
 
 const Home = ({ data }) => (
   <Layout>
@@ -17,7 +17,7 @@ const Home = ({ data }) => (
       fluid={
         data.homeData.edges[0].node.frontmatter.main_image.childImageSharp.fluid
       }
-      backgroundColor={'#000000'}
+      backgroundColor={"#000000"}
     >
       <div className={styles.introSlide}>
         <h1 className={styles.title}>{data.site.siteMetadata.title}</h1>
@@ -50,17 +50,19 @@ const Home = ({ data }) => (
               to={project.node.fields.slug}
               key={project.node.frontmatter.title}
             >
-              <Img
-                className={styles.project}
-                fluid={
-                  project.node.frontmatter.gallery[0].childImageSharp.fluid
-                }
-              />
+              {project.node.frontmatter.gallery && (
+                <Img
+                  className={styles.project}
+                  fluid={
+                    project.node.frontmatter.gallery[0].childImageSharp.fluid
+                  }
+                />
+              )}
               <div className={styles.projectInfo}>
                 <h2>{project.node.frontmatter.title}</h2>
               </div>
             </Link>
-          );
+          )
         })}
       </div>
     </section>
@@ -80,7 +82,7 @@ const Home = ({ data }) => (
             className={styles.galleryImage}
             fluid={image.childImageSharp.fluid}
           />
-        );
+        )
       })}
     </section>
 
@@ -93,15 +95,15 @@ const Home = ({ data }) => (
               <li key={performance} className={styles.performance}>
                 {performance}
               </li>
-            );
-          },
+            )
+          }
         )}
       </ul>
     </section>
   </Layout>
-);
+)
 
-export default Home;
+export default Home
 
 export const query = graphql`
   query HomeQuery {
@@ -175,8 +177,8 @@ export const query = graphql`
       }
     }
   }
-`;
+`
 
 Home.propTypes = {
   data: PropTypes.node,
-};
+}
