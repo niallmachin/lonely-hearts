@@ -1,14 +1,14 @@
-import React from "react"
+import React from 'react'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from '../components/layout'
+import SEO from '../components/seo'
 
-import BackgroundImage from "gatsby-background-image"
-import styles from "../styles/Home.module.scss"
-import { graphql, Link } from "gatsby"
-import PropTypes from "prop-types"
-import Img from "gatsby-image"
-import Markdown from "markdown-to-jsx"
+import BackgroundImage from 'gatsby-background-image'
+import styles from '../styles/Home.module.scss'
+import { graphql, Link } from 'gatsby'
+import PropTypes from 'prop-types'
+import Img from 'gatsby-image'
+import Markdown from 'markdown-to-jsx'
 
 const Home = ({ data }) => (
   <Layout>
@@ -17,7 +17,7 @@ const Home = ({ data }) => (
       fluid={
         data.homeData.edges[0].node.frontmatter.main_image.childImageSharp.fluid
       }
-      backgroundColor={"#000000"}
+      backgroundColor={'#000000'}
     >
       <div className={styles.introSlide}>
         <h1 className={styles.title}>{data.site.siteMetadata.title}</h1>
@@ -96,7 +96,7 @@ const Home = ({ data }) => (
                 {performance}
               </li>
             )
-          }
+          },
         )}
       </ul>
     </section>
