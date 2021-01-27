@@ -11,6 +11,4 @@ if [ -z "$NETLIFY_SITE_ID" ]; then
     exit 1
 fi
 
-if [ "$TRAVIS_BRANCH" = "master" ]; then
     npx netlify deploy         --message="@$(git rev-parse --short HEAD)"         --auth=""         --site=""         --dir=public         --prod
-fi
