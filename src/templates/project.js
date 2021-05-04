@@ -18,12 +18,12 @@ const Post = ({ data }) => {
               <Img
                 className={classnames(
                   styles.thumbnail,
-                  image.childImageSharp.fixed.aspectRatio < 1
+                  image.childImageSharp?.fixed.aspectRatio < 1
                     ? styles.vertical
                     : styles.horizontal
                 )}
                 key={image.id}
-                fluid={image.childImageSharp.fluid}
+                fluid={image.childImageSharp?.fluid}
               />
             )
           })}

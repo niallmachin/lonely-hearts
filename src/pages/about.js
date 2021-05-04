@@ -17,8 +17,7 @@ const About = ({ data }) => (
       <Img
         className={styles.headshot}
         fluid={
-          data.aboutData.edges[0].node.frontmatter.headshot.childImageSharp
-            .fluid
+          data.aboutData.edges[0].node.frontmatter.headshot.childImageSharp?.fluid
         }
       />
       <div className={styles.bio}>

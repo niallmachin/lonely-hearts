@@ -15,7 +15,7 @@ const Home = ({ data }) => (
     <SEO title="Home" />
     <BackgroundImage
       fluid={
-        data.homeData.edges[0].node.frontmatter.main_image.childImageSharp.fluid
+        data.homeData.edges[0].node.frontmatter.main_image.childImageSharp?.fluid
       }
       backgroundColor={'#000000'}
     >
@@ -31,7 +31,7 @@ const Home = ({ data }) => (
       <Img
         className={styles.headshot}
         fluid={
-          data.homeData.edges[0].node.frontmatter.headshot.childImageSharp.fluid
+          data.homeData.edges[0].node.frontmatter.headshot.childImageSharp?.fluid
         }
       />
       <div className={styles.bio}>
@@ -54,7 +54,7 @@ const Home = ({ data }) => (
                 <Img
                   className={styles.project}
                   fluid={
-                    project.node.frontmatter.gallery[0].childImageSharp.fluid
+                    project.node.frontmatter.gallery[0].childImageSharp?.fluid
                   }
                 />
               )}
@@ -80,7 +80,7 @@ const Home = ({ data }) => (
           <Img
             key={image.id}
             className={styles.galleryImage}
-            fluid={image.childImageSharp.fluid}
+            fluid={image.childImageSharp?.fluid}
           />
         )
       })}
