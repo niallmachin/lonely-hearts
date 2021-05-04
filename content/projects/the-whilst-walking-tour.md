@@ -2,12 +2,7 @@
 template: project
 title: 'The Whilst Walking Tour India '
 gallery:
-- "/content/images/Kamshet.jpg"
-- "/content/images/_dsc8277.jpeg"
-- "/content/images/Train .jpg"
-- "/content/images/Group picture_edited.jpg"
-- "/content/images/team in auto.jpg"
-- "/content/images/DSC06753.jpg"
+- "/content/images/10.png"
 date: 2019-01-05T22:00:00.000+00:00
 
 ---
@@ -17,9 +12,9 @@ At the heart of the work was an exploration of the physical ensemble in performa
 
 By being in a foreign context, the showcase became an intercultural exchange, inviting precise feedback that developed the company’s strategies to question the function of performance worldwide.
 
-The festival offered Workshops that explored the devising process used by the collective. This was a way for us to share our methods of theatrical creation with young to mid-career artists across India and evolve their shared performance vocabulary. The exchanges with participants along the way subsequently developed the work presented in each respective city.
+The festival offered workshops that explored the devising process used by the collective. This was a way for us to share our methods of theatrical creation with young to mid-career artists across India and evolve their shared performance vocabulary. The exchanges with participants along the way subsequently developed the work presented in each respective city.
 
-Curated and facilitated by Niall Fallon, Julia Vandehof, Titas Dutta, Ainhoa Hevia Uria, Matteo Carpi, Gina Battle Oliva, Vivek Kumar
+Curated and facilitated by Niall Fallon, Titas Dutta, Ainhoa Hevia Uria, Matteo Carpi, Julia Vandehof, Gina Battle Oliva, Vivek Kumar
 
 The tour and subsequent workshops took place in the following:
 
