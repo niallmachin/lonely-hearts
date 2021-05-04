@@ -2,14 +2,14 @@
 template: project
 title: Anthropocosmic
 gallery:
+- "/content/images/4.png"
+- "/content/images/5.png"
 - "/content/images/b03bcbcf-a24e-473d-9419-5b88af3caf55_1_201_a.jpeg"
 - "/content/images/c7cdb58e-8365-4947-9606-78b4768a8b49_1_100_o.jpeg"
 - "/content/images/e9405db4-c385-47e9-bd1b-d1b4a1822457_1_100_o.jpeg"
 - "/content/images/e613055d-05d2-4b20-9f6d-2f6ab9d5f217_1_100_o.jpeg"
 - "/content/images/26cef6bb-603e-4b5a-b813-92ba23f82df7_1_100_o.jpeg"
 - "/content/images/50679a68-dcce-4acc-8871-e840a46b511a_1_201_a.jpeg"
-- "/content/images/f521d442-ed74-4568-87a0-72026bb31b27_1_201_a.jpeg"
-- "/content/images/ed16acde-6765-4c59-9a1c-61e3051d8f53_1_100_o.jpeg"
 - "/content/images/ec0682c4-f3c3-4d97-b51c-ed5ce8da6fec_1_100_o.jpeg"
 - "/content/images/777aadf5-5a62-41b7-8117-6a4a0e2a14ef_1_100_o.jpeg"
 - "/content/images/580b9bd9-030d-4d34-942b-066fd2f78989_1_201_a.jpeg"
