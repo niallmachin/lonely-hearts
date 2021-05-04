@@ -5,7 +5,7 @@ name: default
 
 steps:
   - name: Override
-    image: node
+    image: node:15:15
     environment:
       DRONE_AUTH_TOKEN:
         from_secret: drone_auth_token
@@ -27,13 +27,13 @@ steps:
         path: /tmp/cache
 
   - name: Build
-    image: node
+    image: node:15
     commands:
       - yarn install
       - yarn build
 
   - name: Deploy
-    image: node
+    image: node:15
     environment:
       NETLIFY_AUTH_TOKEN:
         from_secret: NETLIFY_AUTH_TOKEN
