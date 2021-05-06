@@ -2,7 +2,9 @@
 template: project
 title: 'The Whilst Walking Tour India '
 gallery:
+- "/content/images/Kamshet.jpg"
 - "/content/images/10.png"
+- "/content/images/Train .jpg"
 date: 2019-01-05T22:00:00.000+00:00
 
 ---
