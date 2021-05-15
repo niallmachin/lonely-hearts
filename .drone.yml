@@ -15,12 +15,12 @@ steps:
     image: meltwater/drone-cache:dev
     pull: true
     settings:
-      backend: "filesystem"
+      backend: 'filesystem'
       restore: true
       cache_key: '{{ checksum "package.json" }}'
-      archive_format: "gzip"
+      archive_format: 'gzip'
       mount:
-        - "./node_modules"
+        - './node_modules'
 
     volumes:
       - name: cache
@@ -46,12 +46,12 @@ steps:
     image: meltwater/drone-cache:dev
     pull: true
     settings:
-      backend: "filesystem"
+      backend: 'filesystem'
       rebuild: true
       cache_key: '{{ checksum "package.json" }}'
-      archive_format: "gzip"
+      archive_format: 'gzip'
       mount:
-        - "./node_modules"
+        - './node_modules'
     volumes:
       - name: cache
         path: /tmp/cache
@@ -60,7 +60,6 @@ steps:
     image: plugins/slack
     when:
       status:
-        - success
         - failure
     settings:
       webhook:
