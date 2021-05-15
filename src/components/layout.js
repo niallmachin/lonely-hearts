@@ -9,6 +9,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Header from './header'
 import { useStaticQuery, graphql } from 'gatsby'
+import Image from 'gatsby-image'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faInstagram,
@@ -39,8 +40,20 @@ const Layout = ({ children }) => {
           title
         }
       }
+      artsCouncilLogo: imageSharp(
+        fluid: { originalName: { eq: "arts-council-logo.png" } }
+      ) {
+        fluid {
+          ...GatsbyImageSharpFluid
+        }
+      }
     }
   `)
+
+  console.log({ data })
+
+  const artsCouncilLogo = data.artsCouncilLogo.fluid
+
   return (
     <>
       <Header />
@@ -74,6 +87,7 @@ const Layout = ({ children }) => {
             />
           </a>
         </div>
+        <Image style={{ width: '300px'}} fluid={artsCouncilLogo} />
       </footer>
     </>
   )
