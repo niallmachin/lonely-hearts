@@ -3,8 +3,7 @@ template: project
 date: 
 title: Becoming Anima
 gallery:
-- "/content/images/becoming-anima-credit-niall-fallon.jpg"
-- "/content/images/3.png"
+- "/content/images/spinner-weber-residency-4.jpg"
 - "/content/images/portfolio_like-a-horse-2.pdf"
 - "/content/images/like-a-horse-berlin-germany-becoming-anima-online-performance-art-festival.pdf"
 
