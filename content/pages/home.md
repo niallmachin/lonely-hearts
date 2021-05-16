@@ -9,8 +9,7 @@ about: |-
   grew up in Wakefield, in the north of England and trained as a theatre maker and
   physical performer at Arthaus.Berlin (LISPA), The University of Kent, and Rose Bruford
   College London. He is currently based in Berlin.
-gallery:
-- "/content/images/grand_jpeg_white.jpg"
+gallery: []
 email: niallfallon1994@gmail.com
 facebook: https://www.facebook.com/niall.machin
 instagram: https://www.instagram.com/nialljlmf/
