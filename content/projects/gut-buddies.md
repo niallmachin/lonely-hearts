@@ -2,10 +2,10 @@
 template: project
 title: Gut Buddies
 gallery:
-- "/content/images/DSC00633.jpg"
-- "/content/images/09B92F47-9A44-482D-8BCC-B7CE9763F789_1_105_c.jpeg"
-- "/content/images/DSC_3252 (1).jpg"
-- "/content/images/DSC00610.jpg"
+- "/content/images/img_3370.jpeg"
+- "/content/images/dsc00633-1.jpg"
+- "/content/images/dsc00610-1.jpg"
+- "/content/images/dsc_3252-1.jpeg"
 date: 2019-05-05T22:00:00.000+00:00
 
 ---
