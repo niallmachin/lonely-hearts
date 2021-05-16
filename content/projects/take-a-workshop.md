@@ -2,9 +2,9 @@
 template: ''
 title: 'Workshops '
 gallery:
-- "/content/images/Participants on floor _edited.jpg"
-- "/content/images/IMG_9737.jpeg"
-- "/content/images/9B17483F-C0D4-47B5-8B02-994E912AA924.jpeg"
+- "/content/images/participants-on-floor-_edited-1.jpg"
+- "/content/images/img_9737.jpg"
+- "/content/images/9b17483f-c0d4-47b5-8b02-994e912aa924.jpg"
 date: 2019-02-05T22:00:00.000+00:00
 
 ---
