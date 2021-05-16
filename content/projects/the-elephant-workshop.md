@@ -2,11 +2,12 @@
 template: project
 title: The Elephant's Workshop
 gallery:
-- "/content/images/D9E45CCD-18C2-45E0-9135-3702A3E153DC_1_201_a.jpeg"
-- "/content/images/AC345A73-284D-4DFF-9F3F-69929C2E6A0A_1_201_a.jpeg"
-- "/content/images/0DDD3FD9-ABC8-4D71-A35A-006DB6BE643E_1_201_a.jpeg"
-- "/content/images/b874ac08-4c27-403c-8f0c-913523e1eb61_1_201_a.jpeg"
-- "/content/images/8c1a9514-e6d7-4447-813c-7d895cb89a6a_1_201_a.jpeg"
+- "/content/images/d750730e-bcd4-48a1-84a1-fb21c243af88.jpeg"
+- "/content/images/94575e9b-1835-45aa-b34d-be4142ae95ab.jpeg"
+- "/content/images/a0af4cac-9267-40b9-a11f-63cb281e4447.jpeg"
+- "/content/images/3984e8a9-91e8-4869-a419-7ccab1af647e.jpeg"
+- "/content/images/ccc74459-d0ad-4169-9438-a36d3d4a5f7d.jpeg"
+- "/content/images/3a1f21c8-d2c3-4eb9-9d38-7af5821712f9.jpeg"
 - "/content/images/85d03a9e-724b-4803-9647-2c94e481e938_1_201_a.jpeg"
 date: 2019-04-05T22:00:00.000+00:00
 
