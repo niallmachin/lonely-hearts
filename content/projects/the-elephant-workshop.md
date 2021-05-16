@@ -7,7 +7,6 @@ gallery:
 - "/content/images/0DDD3FD9-ABC8-4D71-A35A-006DB6BE643E_1_201_a.jpeg"
 - "/content/images/b874ac08-4c27-403c-8f0c-913523e1eb61_1_201_a.jpeg"
 - "/content/images/8c1a9514-e6d7-4447-813c-7d895cb89a6a_1_201_a.jpeg"
-- "/content/images/78db2053-2c4c-400c-93f4-d156e9702ce1_1_201_a.jpeg"
 - "/content/images/85d03a9e-724b-4803-9647-2c94e481e938_1_201_a.jpeg"
 date: 2019-04-05T22:00:00.000+00:00
 
