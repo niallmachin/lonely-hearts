@@ -23,6 +23,7 @@ fields:
   name: gallery
   label: Gallery
 pages:
+- content/projects/abstand-bitte-festival.md
 - content/projects/becoming-anima.md
 - content/projects/gut-buddies.md
 - content/projects/like-a-horse.md
