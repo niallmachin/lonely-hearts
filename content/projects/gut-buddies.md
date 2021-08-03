@@ -1,6 +1,6 @@
 ---
 template: project
-title: Gut Buddies
+title: 'GUT BUDDIES '
 gallery:
 - "/content/images/img_3370.jpeg"
 - "/content/images/dsc00633-1.jpg"
@@ -16,8 +16,6 @@ A parasitic worm and a white blood cell in the intestines. This absurdist physic
 ### See more work by the company at:
 
 https://bacterialfactory.com
-
-### ![https://bacterialfactory.com](/content/images/Bacterial-Factory-logo.png "https://bacterialfactory.com")
 
 This performance was premiered in 2018, and toured through 2019:
 
