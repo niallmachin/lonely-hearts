@@ -1,6 +1,6 @@
 ---
 template: project
-title: 'GUT BUDDIES '
+title: Gut Buddies
 gallery:
 - "/content/images/dsc00633-1.jpg"
 - "/content/images/img_3370.jpeg"
