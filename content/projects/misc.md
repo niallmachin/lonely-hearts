@@ -1,7 +1,7 @@
 ---
 template: project
 date: 2021-01-20T23:00:00.000+00:00
-title: Misc
+title: Miscellaneous
 gallery:
 - "/content/images/untitled-2.png"
 - "/content/images/untitled-design-2.png"
