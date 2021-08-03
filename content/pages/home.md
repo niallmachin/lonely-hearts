@@ -8,7 +8,7 @@ about: |-
   He has curated and performed in festivals and collaborations around the world.  He
   grew up in Wakefield, in the north of England and trained as a theatre maker and
   physical performer at Arthaus.Berlin (LISPA), The University of Kent, and Rose Bruford
-  College London. He is currently based in Berlin.
+  College London. He is currently based in Berlin. In 2021 he has worked as the Choreographer and movement coach for the Berlin Opera Academy.
 gallery: []
 email: niallfallon1994@gmail.com
 facebook: https://www.facebook.com/niall.machin
