@@ -5,7 +5,6 @@ title: Miscellaneous
 gallery:
 - "/content/images/dsc06753-1.jpg"
 - "/content/images/untitled-2.png"
-- "/content/images/untitled-design-2.png"
 - "/content/images/monopol.jpg"
 
 ---
