@@ -19,12 +19,14 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   company Bacterial Factory in 2016. His work has won a Best of Brighton Fringe Award,
   which amongst other pieces of his, toured India 2019. He has worked on the marketing
   team for the original production of Fleabag, and in 2019 was the featured artist
-  in residence at Destelheide Belgium and Nau Coclea Spain. \n\nHe also provides speech
-  and voice coaching for professionals in film, theatre, digital media, advocacy,
-  and diplomacy. His creative practice explores learning frameworks and tools for
-  social development, education, business and public speaking for charities. \n\nHe
-  is influenced by the work of Punchdrunk, Peeping Tom, Gecko, Thom Monckton, La Re-Sentida,
-  and Derevo inspiring him to change how audiences creatively participate in performance. "
+  in residence at Destelheide Belgium and Nau Coclea Spain. In 2021 he has worked
+  as the Choreographer and movement coach for the Berlin Opera Academy. \n\nHe also
+  provides speech and voice coaching for professionals in film, theatre, digital media,
+  advocacy, and diplomacy. His creative practice explores learning frameworks and
+  tools for social development, education, business and public speaking for charities.
+  \n\nHe is influenced by the work of Punchdrunk, Peeping Tom, Gecko, Thom Monckton,
+  La Re-Sentida, and Derevo inspiring him to change how audiences creatively participate
+  in performance. "
 gallery: []
 email: niallfallon1994@gmail.com
 facebook: https://www.facebook.com/niall.machin
