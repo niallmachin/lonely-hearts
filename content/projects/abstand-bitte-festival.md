@@ -1,9 +1,11 @@
 ---
 template: project
 date: 
-title: 'Abstand Bitte Festival '
+title: 'Abstand Bitte Performance Festival '
 gallery:
 - "/content/images/untitled-design-2.png"
 
 ---
-The Abstand Bitte Performance series was a live and online festival in May 2021, as part of PAF Berlin. It included live performance experiments, public film screenings, marathon readings and music performances. Housed at the communist cafe art studio _Spinner Und Weber_.
+##### The Abstand Bitte Performance Collective is a group of international, multidisciplinary artists based in Berlin. Drawing on our backgrounds in theatre, live art, installation, movement and immersive performance, we have been exploring ways to develop intimacy, play and connection in a disconnected city. At our studio space in Wedding, we together curated the performance series for Berlin's 2021 Performing Arts Festival (May 25-29).  
+  
+You'll find footage from the festival on our performance page and you can listen to the [Resonance FM show](https://www.mixcloud.com/Resonance/clear-spot-25-may-2021-performing-arts-festival/) we hosted for Bears at a Picnic which gives an overview of the festival, an insight into the history of [Spinner und Weber](https://spinnerundweber.de/) plus interviews with [Gob Squad's Sarah Thom](https://soundcloud.com/user-445319206/interview-with-sarah-thom-of-gob-squad) and [Forced Entertainment's Robin Arthur](https://soundcloud.com/user-445319206/interview-with-robin-arthur-of-forced-entertainment). As pandemic restrictions lift and the city comes back to life, we invite you to keep in touch with us as we continue to make experimental, playful performance and start opening the space up for live events.
