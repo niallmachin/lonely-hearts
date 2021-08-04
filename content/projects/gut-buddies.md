@@ -3,8 +3,8 @@ template: project
 title: Gut Buddies
 gallery:
 - "/content/images/dsc00633-1.jpg"
-- "/content/images/img_3370.jpeg"
 - "/content/images/dsc00610-1.jpg"
+- "/content/images/img_3370.jpeg"
 - "/content/images/dsc_3252-1.jpeg"
 date: 2019-05-05T22:00:00.000+00:00
 
