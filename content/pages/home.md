@@ -15,7 +15,6 @@ facebook: https://www.facebook.com/niall.machin
 instagram: https://www.instagram.com/nialljlmf/
 soundcloud: https://soundcloud.com/user-9424
 whilst_walking: ''
-upcoming_performances:
-- "Abstand Bitte Performance Festival 25th - 29th May 2021 : \nwww.artwat.com"
+upcoming_performances: []
 
 ---
