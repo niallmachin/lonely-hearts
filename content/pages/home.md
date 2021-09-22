@@ -12,7 +12,7 @@ about: |-
 gallery: []
 email: niallfallon1994@gmail.com
 facebook: https://www.facebook.com/niall.machin
-instagram: https://www.instagram.com/nialljlmf/
+instagram: https://www.instagram.com/niall_fallon_theatre/
 soundcloud: https://soundcloud.com/user-9424
 whilst_walking: ''
 upcoming_performances: []
