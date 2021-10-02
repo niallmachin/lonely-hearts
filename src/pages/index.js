@@ -86,20 +86,24 @@ const Home = ({ data }) => (
       })}
     </section>
 
+  {data.homeData.edges[0].node.frontmatter.upcoming_performances && (
     <section className={styles.upcoming}>
-      <h1 className="sectionTitle">Upcoming Performances</h1>
-      <ul>
-        {data.homeData.edges[0].node.frontmatter.upcoming_performances.map(
-          performance => {
-            return (
-              <li key={performance} className={styles.performance}>
-                {performance}
-              </li>
-            )
-          },
-        )}
-      </ul>
-    </section>
+        <h1 className="sectionTitle">Upcoming Performances</h1>
+        <ul>
+          {data.homeData.edges[0].node.frontmatter.upcoming_performances?.map(
+            performance => {
+              return (
+                <li key={performance} className={styles.performance}>
+                  {performance}
+                </li>
+              )
+            },
+          )}
+        </ul>
+      </section>
+      )
+  }
+  
   </Layout>
 )
 
@@ -172,7 +176,7 @@ export const query = graphql`
             facebook
             instagram
             soundcloud
-            upcoming_performances
+            # upcoming_performances
           }
         }
       }
