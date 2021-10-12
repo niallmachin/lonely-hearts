@@ -8,7 +8,7 @@ gallery:
 - "/content/images/monopol.jpg"
 
 ---
-<iframe width="950" height="534" src="https://www.youtube.com/embed/CvyKRzj6kLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="534" src="https://www.youtube.com/embed/KnVd5aV6PgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1055572072&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-445319206" title="Abstand Bitte Festival" target="_blank" style="color: #cccccc; text-decoration: none;">Abstand Bitte Festival</a> · <a href="https://soundcloud.com/user-445319206/orgy-o-visual" title="Orgy - O-visual" target="_blank" style="color: #cccccc; text-decoration: none;">Orgy - O-visual</a></div>
 
