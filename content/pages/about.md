@@ -26,7 +26,7 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   tools for social development, education, business and public speaking for charities.
   \n\nHe is influenced by the work of Punchdrunk, Peeping Tom, Gecko, Thom Monckton,
   La Re-Sentida, and Derevo inspiring him to change how audiences creatively participate
-  in performance. "
+  in performance. \n\nHe is based both in Berlin and England. "
 gallery: []
 email: niallfallon1994@gmail.com
 facebook: https://www.facebook.com/niall.machin
