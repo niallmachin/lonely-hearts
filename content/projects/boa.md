@@ -3,10 +3,10 @@ template: project
 date: 
 title: 'BOA '
 gallery:
+- "/content/images/screenshot-2021-12-08-at-21-23-40.png"
+- "/content/images/screenshot-2021-12-08-at-21-24-46.png"
 - "/content/images/ecf41a0e-9f74-458d-96d5-f6334182f8e8.JPG"
-- "/content/images/img_7517.jpg"
 - "/content/images/img_7660.jpg"
-- "/content/images/29334448-f61b-4f83-9329-559e3fbaf1e4.JPG"
 - "/content/images/screenshot-2021-12-08-at-12-52-42.png"
 - "/content/images/df82105a-0e74-4021-91ca-0b6c55d12938.jpg"
 
