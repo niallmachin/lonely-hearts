@@ -13,7 +13,7 @@ gallery:
 ---
 <iframe width="950" height="534" src="https://www.youtube.com/embed/XYkMjUbH04I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the summer of 2021, I worked as the Choreographer and Movement Director at the Berlin Opera Academy. This year taking place in the mountains of Switzerland. My work there as a physical theatre practitioner and performance coach focused on using psychosomatic physical exercises to evoke ensemble creativity. 
+Alongside my own creations, I also work as the Choreographer and Movement Director at the Berlin Opera Academy. This year taking place in the mountains of Switzerland. My work there as a physical theatre practitioner and performance coach focused on using psychosomatic physical exercises to evoke ensemble creativity.
 
 Under the umbrella of _movement_ work, I helped actors and performers who were more used to recital contexts to prepare for more developed theatrical and operatic performances. Combining the world of dance with play, acting, fitness training, Alexander Technique, martial arts, and improvisation.
 
