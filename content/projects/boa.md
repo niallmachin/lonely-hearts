@@ -1,12 +1,12 @@
 ---
 template: project
 date: 
-title: 'BOA '
+title: 'Berlin Opera Academy '
 gallery:
+- "/content/images/screenshot-2021-12-08-at-12-52-42.png"
+- "/content/images/df82105a-0e74-4021-91ca-0b6c55d12938.jpg"
 - "/content/images/screenshot-2021-12-08-at-21-23-40.png"
-- "/content/images/ecf41a0e-9f74-458d-96d5-f6334182f8e8.JPG"
 - "/content/images/screenshot-2021-12-08-at-21-24-46.png"
-- "/content/images/img_7660.jpg"
 
 ---
 <iframe width="950" height="534" src="https://www.youtube.com/embed/XYkMjUbH04I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
