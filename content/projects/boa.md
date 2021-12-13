@@ -3,9 +3,9 @@ template: project
 date: 
 title: 'Berlin Opera Academy '
 gallery:
-- "/content/images/screenshot-2021-12-08-at-12-52-42.png"
-- "/content/images/df82105a-0e74-4021-91ca-0b6c55d12938.jpg"
 - "/content/images/screenshot-2021-12-08-at-21-23-40.png"
+- "/content/images/df82105a-0e74-4021-91ca-0b6c55d12938.jpg"
+- "/content/images/screenshot-2021-12-08-at-12-52-42.png"
 - "/content/images/screenshot-2021-12-08-at-21-24-46.png"
 
 ---
