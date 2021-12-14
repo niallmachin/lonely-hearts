@@ -3,8 +3,8 @@ template: project
 date: 
 title: 'Lonely Hearts '
 gallery:
-- "/content/images/screenshot-2021-12-13-at-13-00-36.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-59-55.jpeg"
+- "/content/images/screenshot-2021-12-13-at-13-00-36.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-59-13.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-58-38.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-58-09.jpeg"
