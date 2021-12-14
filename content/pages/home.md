@@ -11,7 +11,7 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   and movement coach for the Berlin Opera Academy. He is based both in Berlin and
   England. "
 gallery: []
-email: niallfallon1994@gmail.com
+email: niallfallontheatre@gmail.com
 facebook: https://www.facebook.com/niall.machin
 instagram: https://www.instagram.com/niall_fallon_theatre/
 soundcloud: https://soundcloud.com/user-9424
