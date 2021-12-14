@@ -13,7 +13,7 @@ Time slows down and untold stories emerge from the bodies. Graceful to grotesque
 
 Recently the second manifestation of this work featured in the Abstand Bitte Performance series as part of PAF Berlin 2021.
 
-<iframe width="950" height="534" src="https://www.youtube.com/embed/RGizC1VzTUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class ="video-responsive"> <iframe width="950" height="534" src="https://www.youtube.com/embed/RGizC1VzTUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656536977?h=58343ffdce&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
