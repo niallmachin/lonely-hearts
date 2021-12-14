@@ -11,7 +11,7 @@ gallery:
 - "/content/images/p1066184.jpeg"
 
 ---
-<div style="padding:133.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656240669?h=cb78d07080&autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:133.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656240669?h=cb78d07080&autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:25%;height:25%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Lonely Hearts explores the theme of loneliness in the information age, in which tensions between urban landscapes and the downscaling of the intimate world of individuals are magnified. The audience is brought closer to the world of the performance through camera manipulation, and kept at a distance from conventional storytelling. Lonely hearts is a poetic montage of theatrical moments, questioning how we connect by using non-linear narratives and immersive performance.
 
