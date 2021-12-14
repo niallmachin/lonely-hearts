@@ -3,8 +3,8 @@ template: project
 title: Anthropocosmic
 gallery:
 - "/content/images/b03bcbcf-a24e-473d-9419-5b88af3caf55_1_201_a-1.jpg"
+- "/content/images/screenshot-2021-12-14-at-17-52-26.png"
 - "/content/images/anthropocosmic-main.jpg"
-- "/content/images/picture-1-1.png"
 - "/content/images/screenshot-2021-03-23-at-15-54-48-2.png"
 - "/content/images/e613055d-05d2-4b20-9f6d-2f6ab9d5f217_1_100_o.jpeg"
 - "/content/images/5.png"
