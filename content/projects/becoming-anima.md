@@ -5,6 +5,7 @@ title: Becoming Anima
 gallery:
 - "/content/images/becoming-anima-credit-niall-fallon.jpg"
 - "/content/images/spinner-weber-residency-4.jpg"
+- "/content/images/screenshot-2021-12-14-at-17-50-04.png"
 
 ---
 _Becoming Anima_ is a performance of experimental, conscious movement and stop-motion animation. Somewhere between a psychedelic form of neo-butoh, spontaneous music-video creation, and Saturday morning television. It is a Like A Horse production created by Thomas Mayer and Niall Fallon.
