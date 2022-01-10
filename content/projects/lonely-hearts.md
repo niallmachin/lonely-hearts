@@ -17,16 +17,16 @@ The production is part of an ongoing experimental project between Hannah Schmidt
 
 Audience responses:
 
-_“Absolutely nuts”_ 
+_“Absolutely nuts”_
 
 _“Lynchian”_
 
-_“Amazing, I loved it”_ 
+_“Amazing, I loved it”_
 
 _"Hungry Milkman created an entirely original piece of work with 'Lonely Hearts' as part of LIVE LDN. I have never seen anything quite like it, and can't seem to get the beautiful and haunting imagery they conjured out of my head. This groups of artists are, I am sure, going to go on to make some really incredible work together, and it was a real joy to be part of their journey to create something that really challenged the digital theatre form." (_Ali Pidsley, Co-Director of Barrel Organ)
 
 _“It evokes old Hollywood, Star Wars, Godzilla, and every other project from the era before CGI became dominant” “I felt like I was on acid - but in a good way… I think”_
 
-_“F**king mesmerizing”_ 
+_“F**king mesmerizing”_
 
 ![](/content/images/screenshot-2021-12-14-at-13-45-21.png)![](/content/images/screenshot-2021-12-14-at-13-45-30.png)![](/content/images/screenshot-2021-12-14-at-13-45-36.png)![](/content/images/screenshot-2021-12-14-at-13-45-42.png)![](/content/images/screenshot-2021-12-14-at-13-45-49.png)
