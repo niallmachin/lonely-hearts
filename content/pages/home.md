@@ -7,9 +7,10 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   curated and performed in festivals and collaborations around the world.  He\ngrew
   up in Wakefield, in the north of England and trained as a theatre maker and\nphysical
   performer at Arthaus.Berlin (LISPA), The University of Kent, and Rose Bruford\nCollege
-  London. He is currently based in Berlin. In 2021 he has worked as the Choreographer
-  and movement coach for the Berlin Opera Academy. He is based both in Berlin and
-  England. "
+  London. He is currently based in Berlin. He currently works as the Choreographer
+  and movement coach for the Berlin Opera Academy. In 2022 he will be working as the
+  assistant director on the production 'Antigone's of the Pandemic' for the World
+  Opera Lab. He is based in Berlin, The Netherlands and England. "
 gallery: []
 email: niallfallontheatre@gmail.com
 facebook: https://www.facebook.com/niall.machin
