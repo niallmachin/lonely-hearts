@@ -29,9 +29,9 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   Derevo inspiring him to change how audiences creatively participate in performance.
   \n\nHe is based both in Berlin and England. "
 gallery: []
-email: niallfallon1994@gmail.com
-facebook: https://www.facebook.com/niall.machin
-instagram: https://www.instagram.com/nialljlmf/
+email: ''
+facebook: ''
+instagram: ''
 whilst_walking: ''
 upcoming_performances: []
 
