@@ -12,9 +12,9 @@ about: "Niall Fallon is a performer, musician, and director of physical performa
   England. "
 gallery: []
 email: niallfallontheatre@gmail.com
-facebook: https://www.facebook.com/niall.machin
-instagram: https://www.instagram.com/niall_fallon_theatre/
-soundcloud: https://soundcloud.com/user-9424
+facebook: ''
+instagram: ''
+soundcloud: ''
 whilst_walking: ''
 upcoming_performances: []
 
