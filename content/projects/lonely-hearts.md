@@ -3,6 +3,7 @@ template: project
 date: 
 title: 'Lonely Hearts '
 gallery:
+- "/content/images/p1066184.jpeg"
 - "/content/images/whatsapp-image-2022-02-27-at-21-22-34.jpeg"
 - "/content/images/p1066672.JPG"
 - "/content/images/p1066665.JPG"
@@ -23,7 +24,6 @@ gallery:
 - "/content/images/screenshot-2021-12-13-at-12-59-13.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-58-38.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-58-09.jpeg"
-- "/content/images/p1066184.jpeg"
 
 ---
 Lonely Hearts explores the theme of loneliness in the information age, in which tensions between urban landscapes and the downscaling of the intimate world of individuals are magnified. The audience is brought closer to the world of the performance through camera manipulation and kept at a distance from conventional storytelling. Lonely hearts is a poetic montage of theatrical moments, questioning how we connect by using non-linear narratives and immersive performance.
