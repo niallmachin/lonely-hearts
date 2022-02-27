@@ -14,25 +14,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: gallery
-- type: text
-  name: email
-  label: Email
-- type: text
-  name: facebook
-  label: facebook
-- type: text
-  name: instagram
-  label: instagram
-- type: text
-  name: soundcloud
-  label: soundcloud
-- type: text
-  name: whilst_walking
-  label: Whilst Walking
-- type: list
-  name: upcoming_performances
-  label: Upcoming Performances
-  config:
-    use_select: false
 pages:
 - content/pages/home.md
