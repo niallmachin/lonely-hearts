@@ -7,15 +7,6 @@ fields:
   label: template
   hidden: true
   default: project
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
 - type: text
   name: title
   label: Title
