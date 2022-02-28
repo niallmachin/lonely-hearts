@@ -4,6 +4,7 @@ date:
 title: 'Miscellaneous '
 gallery:
 - "/content/images/p1077151.JPG"
+- "/content/images/2b3f9c57-94f7-49a5-9d40-9f0e603f11b3.JPG"
 - "/content/images/p1066349.JPG"
 - "/content/images/p1066336.JPG"
 - "/content/images/p1066329.JPG"
