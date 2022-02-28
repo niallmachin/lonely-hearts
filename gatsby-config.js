@@ -2,8 +2,8 @@
 // eslint-disable-next-line no-undef
 module.exports = {
   siteMetadata: {
-    title: 'Niall Fallon',
-    description: 'Theatre Maker | Performer',
+    title: 'Lonely Hearts',
+    description: 'Theatre Collective',
     author: '@matteocarpi',
   },
   plugins: [
