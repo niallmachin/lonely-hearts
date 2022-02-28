@@ -40,8 +40,6 @@ _"Hungry Milkman created an entirely original piece of work with 'Lonely Hearts'
 
 _“It evokes old Hollywood, Star Wars, Godzilla, and every other project from the era before CGI became dominant” “I felt like I was on acid - but in a good way… I think”_
 
-_“F**king mesmerizing”_
-
 Phase 2 set design ideas:
 
 ![](/content/images/whatsapp-image-2022-02-20-at-23-14-37.jpeg)
