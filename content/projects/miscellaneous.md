@@ -33,6 +33,5 @@ gallery:
 - "/content/images/p1066291.JPG"
 - "/content/images/p1077090.JPG"
 - "/content/images/94575e9b-1835-45aa-b34d-be4142ae95ab.jpeg"
-- "/content/images/p1077085.JPG"
 
 ---
