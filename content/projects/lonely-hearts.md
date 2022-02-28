@@ -48,6 +48,4 @@ Phase 2 set design ideas:
 
 ![](/content/images/screenshot-2022-02-27-at-22-33-47.png)
 
-![](/content/images/p1066686.JPG)
-
 ![](/content/images/screenshot-2021-12-14-at-13-45-21.png)![](/content/images/screenshot-2021-12-14-at-13-45-30.png)![](/content/images/screenshot-2021-12-14-at-13-45-36.png)![](/content/images/screenshot-2021-12-14-at-13-45-42.png)![](/content/images/screenshot-2021-12-14-at-13-45-49.png)
