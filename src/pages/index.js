@@ -15,7 +15,8 @@ const Home = ({ data }) => (
     <SEO title="Home" />
     <BackgroundImage
       fluid={
-        data.homeData.edges[0].node.frontmatter.main_image.childImageSharp?.fluid
+        data.homeData.edges[0].node.frontmatter.main_image.childImageSharp
+          ?.fluid
       }
       backgroundColor={'#000000'}
     >
@@ -31,7 +32,8 @@ const Home = ({ data }) => (
       <Img
         className={styles.headshot}
         fluid={
-          data.homeData.edges[0].node.frontmatter.headshot.childImageSharp?.fluid
+          data.homeData.edges[0].node.frontmatter.headshot.childImageSharp
+            ?.fluid
         }
       />
       <div className={styles.bio}>
@@ -86,8 +88,8 @@ const Home = ({ data }) => (
       })}
     </section>
 
-  {data.homeData.edges[0].node.frontmatter.upcoming_performances && (
-    <section className={styles.upcoming}>
+    {data.homeData.edges[0].node.frontmatter.upcoming_performances && (
+      <section className={styles.upcoming}>
         <h1 className="sectionTitle">Upcoming Performances</h1>
         <ul>
           {data.homeData.edges[0].node.frontmatter.upcoming_performances?.map(
@@ -101,9 +103,7 @@ const Home = ({ data }) => (
           )}
         </ul>
       </section>
-      )
-  }
-  
+    )}
   </Layout>
 )
 
@@ -119,7 +119,6 @@ export const query = graphql`
     }
     projectsData: allMarkdownRemark(
       filter: { fields: { slug: { nin: ["/home/", "/about/"] } } }
-      sort: { fields: frontmatter___date, order: DESC }
     ) {
       edges {
         node {
@@ -173,9 +172,6 @@ export const query = graphql`
               }
             }
             email
-            facebook
-            instagram
-            soundcloud
             # upcoming_performances
           }
         }
