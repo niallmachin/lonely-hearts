@@ -22,7 +22,7 @@ about: |-
 
   Tommy Gore is a performing artist and graduate from The Fourth Monkey Acting School, London. Having lived and worked in Madrid for three years, Tommy trained in dance and acrobatics, and since 2019 has lived in Berlin, creating Theater with professionals. Tommy specializes in physical theater, vocal practice and clown.
 gallery: []
-email: ''
+email: lonelyh@pm.me
 facebook: ''
 instagram: ''
 whilst_walking: ''
