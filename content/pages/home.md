@@ -1,5 +1,5 @@
 ---
-main_image: "/content/images/A43A63CB-83C1-4F48-8A99-BF587DEC3724%202_edited_edited.jpg"
+main_image: "/content/images/screenshot-2022-02-27-at-22-31-15.png"
 headshot: "/content/images/screenshot-2021-12-13-at-12-59-13.png"
 about: Hungry Milkman Theatre is...
 gallery:
