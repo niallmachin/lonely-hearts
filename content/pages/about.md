@@ -37,7 +37,7 @@ Leigh is a queer interdisciplinary artist based in Berlin, whose work is often c
 
 Niall Fallon is a performer, musician, and director of physical performance. His work focuses on merging physical theatre with multi-disciplinary practices. Combining clown, the absurd, and abstract storytelling, with film and multimedia. He has curated and performed in festivals and collaborations around the world. He grew up in Wakefield, in the north of England and trained as a theatre maker and physical performer at Arthaus.Berlin (LISPA), The University of Kent, and Rose Bruford College London. He is currently based in Berlin. He currently works as the Choreographer and movement coach for the Berlin Opera Academy, and a actor for the Deutsche Oper. He is based between Berlin and England.
 
-https://www.niallfallon.com
+https://www.niallfallon.com/
 
 ## Hannah Schmidt
 
