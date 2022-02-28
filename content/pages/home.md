@@ -1,7 +1,7 @@
 ---
 main_image: "/content/images/A43A63CB-83C1-4F48-8A99-BF587DEC3724%202_edited_edited.jpg"
 headshot: "/content/images/screenshot-2021-12-13-at-12-59-13.png"
-about: Hungry Milkman Theatre is ...
+about: Hungry Milkman Theatre is...
 gallery:
 - "/content/images/2019-10-22-05-39-38-1.jpg"
 - "/content/images/image0-jpeg.webp"
