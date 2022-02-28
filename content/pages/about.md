@@ -29,7 +29,7 @@ whilst_walking: ''
 upcoming_performances: []
 
 ---
-## ![](/content/images/screenshot-2021-12-13-at-13-00-36.png)Niall Fallon
+## Niall Fallon
 
 Niall Fallon is a performer, musician, and director of physical performance. His work focuses on merging physical theatre with multi-disciplinary practices. Combining clown, the absurd, and abstract storytelling, with film and multimedia. He has curated and performed in festivals and collaborations around the world. He grew up in Wakefield, in the north of England and trained as a theatre maker and physical performer at Arthaus.Berlin (LISPA), The University of Kent, and Rose Bruford College London. He is currently based in Berlin. He currently works as the Choreographer and movement coach for the Berlin Opera Academy. He is based between Berlin and England.
 
