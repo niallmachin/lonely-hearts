@@ -44,8 +44,14 @@ _“It evokes old Hollywood, Star Wars, Godzilla, and every other project from t
 
 _“F**king mesmerizing”_
 
-Phase 2 set design ideas: 
+Phase 2 set design ideas:
 
 ![](/content/images/whatsapp-image-2022-02-20-at-23-14-37.jpeg)
+
+![](/content/images/whatsapp-image-2022-02-20-at-23-15-15.jpeg)
+
+![](/content/images/whatsapp-image-2022-02-20-at-23-15-15-1.jpeg)
+
+![](/content/images/whatsapp-image-2022-02-20-at-23-15-15-2.jpeg)
 
 ![](/content/images/screenshot-2021-12-14-at-13-45-21.png)![](/content/images/screenshot-2021-12-14-at-13-45-30.png)![](/content/images/screenshot-2021-12-14-at-13-45-36.png)![](/content/images/screenshot-2021-12-14-at-13-45-42.png)![](/content/images/screenshot-2021-12-14-at-13-45-49.png)
