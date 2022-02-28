@@ -7,7 +7,7 @@ gallery:
 - "/content/images/screenshot-2021-12-13-at-12-59-55.png"
 - "/content/images/screenshot-2021-12-13-at-13-00-36.png"
 - "/content/images/p1066665.JPG"
-- "/content/images/p1066686.JPG"
+- "/content/images/whatsapp-image-2022-02-20-at-23-14-37.jpeg"
 - "/content/images/p1066696.JPG"
 - "/content/images/screenshot-2022-02-16-at-16-04-43.png"
 - "/content/images/screenshot-2021-12-13-at-12-58-09.jpeg"
@@ -15,12 +15,11 @@ gallery:
 - "/content/images/screenshot-2021-12-13-at-12-58-38.png"
 - "/content/images/screenshot-2022-02-27-at-22-30-32.png"
 - "/content/images/screenshot-2022-02-27-at-22-28-36.png"
+- "/content/images/whatsapp-image-2022-02-20-at-23-15-15.jpeg"
 - "/content/images/screenshot-2021-12-13-at-12-59-13.jpeg"
 - "/content/images/screenshot-2022-02-27-at-22-31-15.png"
 - "/content/images/screenshot-2022-02-27-at-22-27-28.png"
 - "/content/images/screenshot-2022-02-27-at-22-28-56.png"
-- "/content/images/screenshot-2022-02-27-at-22-32-17.png"
-- "/content/images/screenshot-2022-02-27-at-22-33-47.png"
 
 ---
 Lonely Hearts explores the theme of loneliness in the information age, in which tensions between urban landscapes and the downscaling of the intimate world of individuals are magnified. The audience is brought closer to the world of the performance through camera manipulation and kept at a distance from conventional storytelling. Lonely hearts is a poetic montage of theatrical moments, questioning how we connect by using non-linear narratives and immersive performance.
@@ -41,12 +40,14 @@ _“It evokes old Hollywood, Star Wars, Godzilla, and every other project from t
 
 Phase 2 set design ideas:
 
-![](/content/images/whatsapp-image-2022-02-20-at-23-14-37.jpeg)
-
-![](/content/images/whatsapp-image-2022-02-20-at-23-15-15.jpeg)
-
 ![](/content/images/whatsapp-image-2022-02-20-at-23-15-15-1.jpeg)
 
 ![](/content/images/whatsapp-image-2022-02-20-at-23-15-15-2.jpeg)
+
+![](/content/images/screenshot-2022-02-27-at-22-32-17.png)
+
+![](/content/images/screenshot-2022-02-27-at-22-33-47.png)
+
+![](/content/images/p1066686.JPG)
 
 ![](/content/images/screenshot-2021-12-14-at-13-45-21.png)![](/content/images/screenshot-2021-12-14-at-13-45-30.png)![](/content/images/screenshot-2021-12-14-at-13-45-36.png)![](/content/images/screenshot-2021-12-14-at-13-45-42.png)![](/content/images/screenshot-2021-12-14-at-13-45-49.png)
