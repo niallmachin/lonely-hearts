@@ -24,7 +24,9 @@ gallery:
 ---
 Lonely Hearts explores the theme of loneliness in the information age, in which tensions between urban landscapes and the downscaling of the intimate world of individuals are magnified. The audience is brought closer to the world of the performance through camera manipulation and kept at a distance from conventional storytelling. Lonely hearts is a poetic montage of theatrical moments, questioning how we connect by using non-linear narratives and immersive performance.
 
-The production is part of an ongoing experimental project between Hannah Schmidt, Leigh, Tommy Gore and Niall Fallon. It premiered to a sell-out audience at Camden People’s Theatre, as part of Barrell Organ’s LIVE LDN festival. The project was mentored by Cathy Naden of Forced Entertainment.
+It is currently in another R&D phase. 
+
+Lonely Hearts is part of an ongoing experimental project between Hannah Schmidt, Leigh, Tommy Gore and Niall Fallon. The first phase of the project premiered to a sell-out audience at Camden People’s Theatre, as part of Barrell Organ’s LIVE LDN festival. The project was mentored by Cathy Naden of Forced Entertainment.
 
 Audience responses from phase 1 of Lonely Hearts:
 
