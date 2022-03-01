@@ -24,7 +24,7 @@ gallery:
 ---
 Lonely Hearts explores the theme of loneliness in the information age, in which tensions between urban landscapes and the downscaling of the intimate world of individuals are magnified. The audience is brought closer to the world of the performance through camera manipulation and kept at a distance from conventional storytelling. Lonely hearts is a poetic montage of theatrical moments, questioning how we connect by using non-linear narratives and immersive performance.
 
-It is currently in another R&D phase. 
+It is currently in another R&D phase.
 
 Lonely Hearts is part of an ongoing experimental project between Hannah Schmidt, Leigh, Tommy Gore and Niall Fallon. The first phase of the project premiered to a sell-out audience at Camden People’s Theatre, as part of Barrell Organ’s LIVE LDN festival. The project was mentored by Cathy Naden of Forced Entertainment.
 
@@ -39,6 +39,10 @@ _“Amazing, I loved it”_
 _"\[They\] created an entirely original piece of work with 'Lonely Hearts' as part of LIVE LDN. I have never seen anything quite like it, and can't seem to get the beautiful and haunting imagery they conjured out of my head. This groups of artists are, I am sure, going to go on to make some really incredible work together, and it was a real joy to be part of their journey to create something that really challenged the digital theatre form." (_Ali Pidsley, Co-Director of Barrel Organ)
 
 _“It evokes old Hollywood, Star Wars, Godzilla, and every other project from the era before CGI became dominant” “I felt like I was on acid - but in a good way… I think”_
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/683343432?h=bc28e28e37&autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<p><a href="https://vimeo.com/683343432">Lonely Hearts WIP</a> from <a href="https://vimeo.com/user63185025">manifestleigh</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Phase 2 set design ideas:
 
