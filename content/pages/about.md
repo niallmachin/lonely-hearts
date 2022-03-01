@@ -14,9 +14,9 @@ about: |-
 
   https://www.hannah-ursula.com/
 
-  Leigh Sayers
+  Leigh
 
-  Leigh is a queer interdisciplinary artist based in Berlin, whose work is often concerned with revealing the extraordinary in the everyday. Leigh studied at Courtauld Institute of Art, LAMDA & Arthaus Berlin. Their practice is research-led, rooted in a background of devising & ensemble theater, creating from stimulus such as visual media, verbatim histories, & found sounds & objects. Leigh created original Site-Specific performances around the world including for California Academy of Sciences & Sydney Justice & Police Museum. They also work as an actor, dramaturg & facilitator in theater, & on script coverage & story consulting for independent filmmakers.
+  Leigh is a queer interdisciplinary artist based in Berlin, whose work is often concerned with revealing the extraordinary in the everyday. Leigh studied at Courtauld Institute of Art, LAMDA & Arthaus.Berlin. Their practice is research-led, rooted in a background of devising & ensemble theater, creating from stimulus such as visual media, verbatim histories, & found sounds & objects. Leigh created original Site-Specific performances around the world including for California Academy of Sciences & Sydney Justice & Police Museum. They also work as an actor, dramaturg & facilitator in theater, & on script coverage & story consulting for independent filmmakers.
 
   Tommy Gore
 
