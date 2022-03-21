@@ -1,36 +1,37 @@
 @import '_constants.scss';
 
-html, body {
-    margin: 0;
-    font-family: 'Josefin Sans';
-    background-color: $red;
-    color: $cream;
+html,
+body {
+  margin: 0;
+  font-family: 'Josefin Sans';
+  background-color: $turquoise;
+  color: $cream;
 }
 main {
-    border-bottom: solid $black 2px;
+  border-bottom: solid $black 2px;
 }
 p {
-    font-size: 20px;
-    line-height: 1.5;
-    font-weight: 200;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 200;
 }
 
 a {
-    color: $cream;
-    font-weight: bold;
+  color: $cream;
+  font-weight: bold;
 }
 .sectionTitle {
-    width: min-content;
-    text-align: center;
-    font-size: 40px;
-    background-color: $purple; 
-    padding: 1.5rem 3rem;
-    border-radius: 1.5rem;
+  width: min-content;
+  text-align: center;
+  font-size: 40px;
+  background-color: $purple;
+  padding: 1.5rem 3rem;
+  border-radius: 1.5rem;
 }
 
 @media (max-width: 768px) {
-    .sectionTitle {
-        font-size: 30px;
-        padding: 1.2rem 1.2rem;
-    }
+  .sectionTitle {
+    font-size: 30px;
+    padding: 1.2rem 1.2rem;
+  }
 }
