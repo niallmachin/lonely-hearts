@@ -26,19 +26,7 @@ Lonely Hearts explores the theme of loneliness in the information age, in which 
 
 It is currently in another R&D phase.
 
-Lonely Hearts is part of an ongoing experimental project between Hannah Schmidt, Leigh, Tommy Gore and Niall Fallon. The first phase of the project premiered to a sell-out audience at Camden People’s Theatre, as part of Barrell Organ’s LIVE LDN festival. The project was mentored by Cathy Naden of Forced Entertainment.
-
-Audience responses from phase 1 of Lonely Hearts:
-
-_“Absolutely nuts”_
-
-_“Lynchian”_
-
-_“Amazing, I loved it”_
-
-_"\[They\] created an entirely original piece of work with 'Lonely Hearts' as part of LIVE LDN. I have never seen anything quite like it, and can't seem to get the beautiful and haunting imagery they conjured out of my head. This groups of artists are, I am sure, going to go on to make some really incredible work together, and it was a real joy to be part of their journey to create something that really challenged the digital theatre form." (_Ali Pidsley, Co-Director of Barrel Organ)
-
-_“It evokes old Hollywood, Star Wars, Godzilla, and every other project from the era before CGI became dominant” “I felt like I was on acid - but in a good way… I think”_
+Lonely Hearts is part of an ongoing experimental project between Hannah Schmidt, Leigh, Tommy Gore and Niall Fallon. The project was mentored by Cathy Naden of Forced Entertainment.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/683375954?h=ff29a21d59" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
