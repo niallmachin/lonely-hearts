@@ -40,9 +40,7 @@ Lonely Hearts is part of an ongoing experimental project between Hannah Schmidt,
 
 <p><a href="https://vimeo.com/683376404">Light .mp4</a> from <a href="https://vimeo.com/user168258039">Niall Fallon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/683343432?h=bc28e28e37&autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-<p><a href="https://vimeo.com/683343432">Lonely Hearts WIP</a> from <a href="https://vimeo.com/user63185025">manifestleigh</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/683343432?h=bc28e28e37&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Phase 2 set design ideas:
 
